@@ -1,0 +1,12 @@
+on load:
+  set {Gorev_Menu} to "&8&l» &8Görevlerin"
+  set {Gorev_Yapilmamis} to "&c&lYAPILMAMIŞ"
+  set {Gorev_Tikla_Yap} to "&aGörevi yapmak için tıkla."
+  set {Gorev_Isim_1} to "&aÇiftçi görevi"
+  set {Gorev_Yazi_1} to "||&e&oBu görev için sahip olman gerekenler;||&7 ● 32 Havuç||&7 ● 32 Buğday||&7 ● 32 Patates||||&6&oGörevi bitirince tek kullanımlık||&eSüper Çapa &6&okazanırsın.||&6&oKullandığınızda etrafınızdaki||&6&otüm tarım ürünlerini toplar."
+  set {Gorev_Isim_2} to "&aSavaşçı görevi"
+  set {Gorev_Yazi_2} to "||&e&oBu görev için sahip olman gerekenler;||&7 ● 10 Deri||&7 ● 3 Ruh Taşı||||&6&oGörevi bitirince beş dakikalık &eKoruma 2||&6&okazanırsın. Bu sizin savaşta daha az||&6&ohasar almanızı sağlar."
+  set {Gorev_Isim_3} to "&aMadenci görevi"
+  set {Gorev_Yazi_3} to "||&e&oBu görev için sahip olman gerekenler;||&7 ● 5 Altın Külçesi||&7 ● 3 Demir Külçesi||||&6&oGörevi bitirince beş dakikalık &eAcele 3||&6&okazanırsın. Bu sizin blokları daha||&6&ohızlı kırmanızı sağlar."
+  set {Gorev_Isim_4} to "&aSağlık görevi"
+  set {Gorev_Yazi_4} to "||&e&oBu görev için sahip olman gerekenler;||&7 ● 5 İp||&7 ● 3 Deri||&7 ● 1 Su Kovası||||&6&oGörevi bitirince &e&oBandaj||&6&okazanırsın. Bu sizi anında||&6&oiyileşmenizi sağlar."
