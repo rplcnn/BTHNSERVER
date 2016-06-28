@@ -2,6 +2,10 @@ on load:
   set {Gorev_Menu} to "&8&l» &8Görevlerin"
   set {Gorev_Yapilmamis} to "&c&lYAPILMAMIŞ"
   set {Gorev_Tikla_Yap} to "&aGörevi yapmak için tıkla."
+  set {Gorev_Esya_1} to "wooden hoe of unbreaking 10" parsed as material
+  set {Gorev_Esya_2} to "wooden sword of unbreaking 10" parsed as material
+  set {Gorev_Esya_3} to "wooden pickaxe of unbreaking 10" parsed as material
+  set {Gorev_Esya_4} to "stick of unbreaking 10" parsed as material
   set {Gorev_Isim_1} to "&aÇiftçi görevi"
   set {Gorev_Yazi_1} to "||&e&oBu görev için sahip olman gerekenler;||&7 ● 32 Havuç||&7 ● 32 Buğday||&7 ● 32 Patates||||&6&oGörevi bitirince tek kullanımlık||&eSüper Çapa &6&okazanırsın.||&6&oKullandığınızda etrafınızdaki||&6&otüm tarım ürünlerini toplar."
   set {Gorev_Isim_2} to "&aSavaşçı görevi"
