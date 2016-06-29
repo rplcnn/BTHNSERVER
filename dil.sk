@@ -5,6 +5,7 @@ on load:
   set {Sahip_Gerek} to "||&e&oBunun için sahip olman gerekenler;||"
   set {Esya_Yok} to "&7Üzgünüm, &a{ADET} &7adet &e{ESYA} &7eşyasına sahip değilsin."
   set {Esyalar_Alindi} to "&dDönüşüm için eşyalar envanterinden alındı."
+  set {Gorev_Tamam} to "&7Dönüşüm tamamlandı, &e{ODUL} &7kazanıldı."
   set {Gorev_Esya_1} to "wooden hoe of unbreaking 10" parsed as material
   set {Gorev_Esya_2} to "wooden sword of unbreaking 10" parsed as material
   set {Gorev_Esya_3} to "wooden pickaxe of unbreaking 10" parsed as material
