@@ -12,3 +12,5 @@ on load:
   set {Boyle_Bir_Oyuncu_Yok} to "&7Böyle bir oyuncu bulunamadı, bazen bu oyuncunun çıkıp girmesi sorunu çözebilir."
   set {Lutfen_Oyuncu_Gir} to "&7Lütfen bir oyuncu ismi gir."
   set {Boyle_Komut_Yok} to "&7Böyle bir komut bulunamadı."
+  set {Jeton_Alindi} to "&a{OYUNCU} &7oyuncusundan &e{JETON} &7jeton aldın."
+  set {Jeton_Gonderildi} to "&a{OYUNCU} &7oyuncusuna &e{JETON} &7gönderdin."
