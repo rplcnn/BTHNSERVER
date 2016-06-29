@@ -1,7 +1,7 @@
 on load:
   set {Gorev_Menu} to "&8&l» &8Dönüştürücü"
   set {Gorev_Yapilmamis} to "&c&lYAPILMAMIŞ"
-  set {Gorev_Tikla_Yap} to "&aDönüşümü yapmak için tıkla."
+  set {Gorev_Tikla_Yap} to "&aDönüştürmek için tıkla."
   set {Sahip_Gerek} to "||&e&oBunun için sahip olman gerekenler;||"
   set {Esya_Yok} to "&7Üzgünüm, &a{ADET} &7adet &e{ESYA} &7eşyasına sahip değilsin."
   set {Esyalar_Alindi} to "&dDönüşüm için eşyalar envanterinden alındı."
