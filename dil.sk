@@ -34,3 +34,4 @@ on load:
   set {Odul_Yazi_1} to "||&7&oTek kullanımlık eşya. Kullandığınızda||&7&oetrafınızdaki tarım ürünlerini toplar."
   set {Odul_Yazi_4} to "||&7&oTek kullanımlık eşya. Kullandığınızda||&7&ocanınızı kısa sürede yeniler."
   set {Etraf_Temizlendi} to "&7Başarılı, &eSüper çapayı &7kullanarak etraftaki tüm tarım ürünlerini topladın."
+  set {Iyilestirme_Basliyor} to "&7Başarılı, &ebandaj &7ile kenidinizi iyileştiriyorsunuz."
