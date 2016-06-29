@@ -6,5 +6,6 @@ on load:
   set {Jeton_Yazi_1} to "||&7&oParanı jetona dönüştürmek için tıkla."
   set {Jeton_Yazi_2} to "||&e{JETON} &7jetona sahipsin."
   set {Jeton_Yazi_3} to "||&7&oArkadaşlarına jeton göndermek için tıkla."
-  set {Yeteri_Kadar_Jeton_Yok} to "&cBunun için yeteri kadar jetonun  yok."
+  set {Yeteri_Kadar_Jeton_Yok} to "&7Bunun için yeteri kadar jetonun yok.&e"
   set {Jeton_Gonder_Mesaj} to "&7Jeton göndermek için &a/jeton gönder <isim> <miktar> &7komutunu kullanabilirsin."
+  
