@@ -10,13 +10,13 @@ on load:
   set {Gorev_Esya_3} to "wooden pickaxe of unbreaking 10" parsed as material
   set {Gorev_Esya_4} to "stick of unbreaking 10" parsed as material
   set {Gorev_Isim_1} to "&aÇiftçi"
-  set {Gorev_Yazi_1} to "&7 ● 32 Havuç||&7 ● 32 Buğday||&7 ● 32 Patates||||&6&oDönüşüm size tek kullanımlık||&eSüper Çapa &6&okazandırır.||&6&oKullandığınızda etrafınızdaki||&6&otüm tarım ürünlerini toplar."
+  set {Gorev_Yazi_1} to "&7 ● 32 Havuç||&7 ● 32 Buğday||&7 ● 32 Patates||||&6Dönüşüm size tek kullanımlık||&eSüper Çapa &6kazandırır.||&6Kullandığınızda etrafınızdaki||&6tüm tarım ürünlerini toplar."
   set {Gorev_Isim_2} to "&aSavaşçı"
-  set {Gorev_Yazi_2} to "&7 ● 10 Deri||&7 ● 3 Ruh Taşı||||&6&oDönüşüm size beş dakikalık &eKoruma 2||&6&okazandırır. Bu sizin savaşta daha az||&6&ohasar almanızı sağlar."
+  set {Gorev_Yazi_2} to "&7 ● 10 Deri||&7 ● 3 Ruh Taşı||||&6Dönüşüm size beş dakikalık &eKoruma 2||&6kazandırır. Bu sizin savaşta daha az||&6hasar almanızı sağlar."
   set {Gorev_Isim_3} to "&aMadenci"
-  set {Gorev_Yazi_3} to "&7 ● 5 Altın Külçesi||&7 ● 3 Demir Külçesi||||&6&oDönüşüm size beş dakikalık &eAcele 3||&6&okazandırır. Bu sizin blokları daha||&6&ohızlı kırmanızı sağlar."
+  set {Gorev_Yazi_3} to "&7 ● 5 Altın Külçesi||&7 ● 3 Demir Külçesi||||&6Dönüşüm size beş dakikalık &eAcele 3||&6kazandırır. Bu sizin blokları daha||&6hızlı kırmanızı sağlar."
   set {Gorev_Isim_4} to "&aŞaman"
-  set {Gorev_Yazi_4} to "&7 ● 5 İp||&7 ● 3 Deri||&7 ● 1 Su Kovası||||&6&oDönüşüm size &e&oBandaj||&6&okazandırır. Bu sizi anında||&6&oiyileşmenizi sağlar."
+  set {Gorev_Yazi_4} to "&7 ● 5 İp||&7 ● 3 Deri||&7 ● 1 Su Kovası||||&6Dönüşüm size &e&oBandaj||&6kazandırır. Bu sizi anında||&6iyileşmenizi sağlar."
   set {Esya_carrot} to "havuç"
   set {Esya_wheat} to "buğday"
   set {Esya_potato} to "patates"
