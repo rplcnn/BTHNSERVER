@@ -8,4 +8,6 @@ on load:
   set {Jeton_Yazi_3} to "||&7&oArkadaşlarına jeton göndermek için tıkla."
   set {Yeteri_Kadar_Jeton_Yok} to "&7Bunun için yeteri kadar jetonun yok.&e"
   set {Jeton_Gonder_Mesaj} to "&7Jeton göndermek için &a/jeton gönder <isim> <miktar> &7komutunu kullanabilirsin."
-  
+  set {Lutfen_Dogru_Sayi_Gir} to "&7Lütfen doğru bir sayı gir."
+  set {Boyle_Bir_Oyuncu_Yok} to "&7Böyle bir oyuncu bulunamadı, bazen bu oyuncunun çıkıp girmesi sorunu çözebilir."
+  set {Lutfen_Oyuncu_Gir} to "&7Lütfen bir oyuncu ismi gir."
