@@ -14,3 +14,4 @@ on load:
   set {Boyle_Komut_Yok} to "&7Böyle bir komut bulunamadı."
   set {Jeton_Alindi} to "&a{OYUNCU} &7oyuncusundan &e{JETON} &7jeton aldın."
   set {Jeton_Gonderildi} to "&a{OYUNCU} &7oyuncusuna &e{JETON} &7gönderdin."
+  set {Kendinle_Islem} to "&7Kendinle işlem yapamazsın."
