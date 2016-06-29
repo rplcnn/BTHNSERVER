@@ -1,0 +1,2 @@
+on load:
+  set {Yeteri_Kadar_Jeton_Yok} to "&cBunun için yeteri kadar jetonun  yok."
