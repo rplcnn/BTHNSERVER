@@ -30,3 +30,5 @@ on load:
   set {Odul_2} to "Koruma II"
   set {Odul_3} to "Acele III"
   set {Odul_4} to "Bandaj"
+  set {Odul_Yazi_1} to "||&7&oTek kullanımlık eşya. Kullandığınızda||&7&oetrafınızdaki tarım ürünlerini toplar."
+  set {Odul_Yazi_4} to "||&7&oTek kullanımlık eşya. Kullandığınızda||&7&ocanınızı kısa sürede yeniler."
