@@ -1,2 +1,9 @@
 on load:
+  set {Jeton_Menu} to "&8&l» &8Jeton Menüsü"
+  set {Jeton_1} to "&aJeton Dönüştür"
+  set {Jeton_2} to "&aJetonların:"
+  set {Jeton_3} to "&aJeton Gönder"
+  set {Jeton_Yazi_1} to "||&7&oParanı jetona dönüştürmek için tıkla."
+  set {Jeton_Yazi_2} to "||&e{JETON} &7jetona sahipsin."
+  set {Jeton_Yazi_3} to "||&7&oJeton göndermek için||&e/jeton gönder <isim> komutunu||&7&okullanabilirsin."
   set {Yeteri_Kadar_Jeton_Yok} to "&cBunun için yeteri kadar jetonun  yok."
