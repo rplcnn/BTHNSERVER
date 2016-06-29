@@ -16,3 +16,4 @@ on load:
   set {Jeton_Gonderildi} to "&a{OYUNCU} &7oyuncusuna &e{JETON} &7gönderdin."
   set {Kendinle_Islem} to "&7Kendinle işlem yapamazsın."
   set {Jeton_Satin_Al} to "&7Jeton satın almak için &bwww.websitemiz.com &7sitemizi ziyaret edebilirsin."
+  set {Jeton_Ayarlandi} to "&a{OYUNCU} &7oyuncusunun jetonu &e{JETON} &7olarak ayarlandı."
