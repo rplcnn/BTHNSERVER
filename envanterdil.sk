@@ -1,0 +1,4 @@
+on load:
+  set {Kapali_Slot} to "&cKapalı Slot"
+  set {Kapali_Slot_Yazi} to "||&7&oBu slotu &e200 &7&ojetona satın almak için tıkla."
+  
