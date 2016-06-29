@@ -16,7 +16,7 @@ on load:
   set {Gorev_Isim_3} to "&aMadenci"
   set {Gorev_Yazi_3} to "&7 ● 5 Altın Külçesi||&7 ● 3 Demir Külçesi||||&6Dönüşüm size beş dakikalık &eAcele 3||&6kazandırır. Bu sizin blokları daha||&6hızlı kırmanızı sağlar."
   set {Gorev_Isim_4} to "&aŞaman"
-  set {Gorev_Yazi_4} to "&7 ● 5 İp||&7 ● 3 Deri||&7 ● 1 Su Kovası||||&6Dönüşüm size &e&oBandaj||&6kazandırır. Bu sizi anında||&6iyileşmenizi sağlar."
+  set {Gorev_Yazi_4} to "&7 ● 5 İp||&7 ● 3 Deri||&7 ● 1 Su Kovası||||&6Dönüşüm size &e&oBandaj||&6kazandırır. Bu sizi kısa||&6sürede iyileşmenizi sağlar."
   set {Esya_carrot} to "havuç"
   set {Esya_wheat} to "buğday"
   set {Esya_potato} to "patates"
