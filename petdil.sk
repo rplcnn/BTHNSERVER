@@ -3,3 +3,4 @@ on load:
   set {Pet_Bekle} to "&7Petinizi çağırmak için &a30 saniye &7bekleyin."
   set {Pet_Isim} to "&7Ayaklı Sandık &b[{OYUNCU}]"
   set {Pet_Dogdu} to "&7Pet başarılı bir şekilde yanınızda doğdu."
+  set {Pet_Alindi} to "&7Peti başarılı bir şekilde satın aldın. &e/pet &7komutunu kullanarak yanına çağır."
