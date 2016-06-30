@@ -9,3 +9,8 @@ on load:
   set {Hic_Arkadasin_Yok} to "&cHiç arkadaşın yok!"
   set {Arkadaslik_Yazi_3} to "||&7&oArkadaşlarından silmek için tıkla."
   set {Arkadas_Cikar} to "&7Birisini arkadaşlıktan çıkarmak için &c/arkadaş sil <oyuncu> &7komutunu kullan."
+  set {Arkadaslik_Menu_2} to "&8&l» &8Arkadaşlarım"
+  set {Hic_Arkadasin_Yok_2} to "&7Hiç arkadaşın yok. &e/arkadaş ekle <oyuncu> &7komutuyla yeni birilerini ekleyebilirsin."
+  set {Arkadaslik_Yazi_4} to "||&aDurumu: {DURUM}||&aTanışma tarihi: &f{TARIH}||&aBulunduğu bölge: &f{BOLGE}"
+  set {Durum_Acik} to "&a&lAÇIK"
+  set {Durum_Kapali} to "&c&lKAPALI"
