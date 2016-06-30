@@ -17,3 +17,6 @@ on load:
   set {Ozgur_Alan} to "Özgür Topraklar"
   set {Bolge_spawn} to "Doğuş Bölgesi"
   set {Bolge_market} to "Market Bölgesi"
+  set {Arkadas_Bekle} to "&7Yeni bir arkadaşlık daveti göndermek için &a30 saniye &7bekle."
+  set {Davet_Gonderildi} to "&7Arkadaşlık daveti &a{OYUNCU} &7oyuncusuna gönderildi."
+  set {Arkadas_Zaten_Ekli} to "&7Bu kişi zaten arkadaşın olarak ekli."
