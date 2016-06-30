@@ -1,0 +1,11 @@
+on load:
+  set {Arkadaslik_Menu} to "&8&l» &8Arkadaşlık Sistemi"
+  set {Arkadaslik_1} to "&aArkadaş Ekle"
+  set {Arkadaslik_2} to "&aArkadaşlarım"
+  set {Arkadaslik_3} to "&aArkadaş Sil"
+  set {Arkadaslik_Yazi_1} to "||&7&oBirisini arkadaş eklemek için tıkla."
+  set {Arkadas_Ekle} to "&7Arkadaş eklemek için &e/arkadaş ekle <oyuncu> &7komutunu kullanabilirsin."
+  set {Arkadaslik_Yazi_2} to "||&7&oArkadaşlarının listesine bak.||&7Toplamda &a{SAYI} &7arkadaşın var!"
+  set {Hic_Arkadasin_Yok} to "&cHiç arkadaşın yok!"
+  set {Arkadaslik_Yazi_3} to "||&7&oArkadaşlarından silmek için tıkla."
+  set {Arkadas_Cikar} to "&7Birisini arkadaşlıktan çıkarmak için &c/arkadaş sil <oyuncu> &7komutunu kullan."
