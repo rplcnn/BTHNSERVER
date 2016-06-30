@@ -20,3 +20,7 @@ on load:
   set {Arkadas_Bekle} to "&7Yeni bir arkadaşlık daveti göndermek için &a30 saniye &7bekle."
   set {Davet_Gonderildi} to "&7Arkadaşlık daveti &a{OYUNCU} &7oyuncusuna gönderildi."
   set {Arkadas_Zaten_Ekli} to "&7Bu kişi zaten arkadaşın olarak ekli."
+  set {Arkadaslik_Davet} to "&8&l» &8Arkadaşlık Daveti"
+  set {Kabul_Et} to "&aKabul Et"
+  set {Red_Et} to "&cReddet"
+  set {Davet_Kimden} to "&aDaveti Gönderen"
