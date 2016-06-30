@@ -1,7 +1,7 @@
 on load:
   set {Pet_Satin_Al} to "&7Bir ayaklı sandığın yok. Hemen pet almak için &b/pet satınal &7komutunu gir."
   set {Pet_Bekle} to "&7Petinizi çağırmak için &a30 saniye &7bekleyin."
-  set {Pet_Isim} to "&7Ayaklı Sandık &b[{OYUNCU}]"
+  set {Pet_Isim} to "&7Ayaklı Sandık"
   set {Pet_Dogdu} to "&7Pet başarılı bir şekilde yanınızda doğdu."
   set {Pet_Alindi} to "&7Peti başarılı bir şekilde satın aldın. &e/pet &7komutunu kullanarak yanına çağır."
   set {Petin_Var} to "&7Zaten bir petin var. &e/pet &7komutunu kullanarak yanına çağırabilirsin."
