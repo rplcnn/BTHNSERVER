@@ -25,3 +25,5 @@ on load:
   set {Red_Et} to "&cReddet"
   set {Davet_Kimden} to "&aDaveti Gönderen"
   set {Davet_Alindi} to "&a{OYUNCU} &7oyuncusundan bir arkadaşlık daveti aldın."
+  set {Davet_Reddettin} to "&c{OYUNCU} &7oyuncusundan gelen arkadaşlık davetini reddettin."
+  set {Davet_Reddedildi} to "&c{OYUNCU} &7gönderdiğiniz arkadaşlık davetini reddetti."
