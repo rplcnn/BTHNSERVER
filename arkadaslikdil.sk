@@ -27,3 +27,4 @@ on load:
   set {Davet_Alindi} to "&a{OYUNCU} &7oyuncusundan bir arkadaşlık daveti aldın."
   set {Davet_Reddettin} to "&c{OYUNCU} &7oyuncusundan gelen arkadaşlık davetini reddettin."
   set {Davet_Reddedildi} to "&c{OYUNCU} &7gönderdiğiniz arkadaşlık davetini reddetti."
+  set {Arkadaslik_Basladi} to "&a{OYUNCU1} &7ve &a{OYUNCU2} &7arasında arkadaşlık başladı."
