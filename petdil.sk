@@ -5,5 +5,4 @@ on load:
   set {Pet_Dogdu} to "&7Pet başarılı bir şekilde yanınızda doğdu."
   set {Pet_Alindi} to "&7Peti başarılı bir şekilde satın aldın. &e/pet &7komutunu kullanarak yanına çağır. &6Sol-tık &7ile sandığını aç."
   set {Petin_Var} to "&7Zaten bir petin var. &e/pet &7komutunu kullanarak yanına çağırabilirsin."
-  set {Petin_Oldu} to "&7Petin öldü. &e/pet satınal &7komutunu kullanarak tekrar satın alabilirsin."
   set {Pet_Senin_Degil} to "&7Bu pet sana ait değil."
