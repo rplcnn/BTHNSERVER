@@ -1,0 +1,2 @@
+on load:
+  set {Pet_Bekle} to "&7Petinizi çağırmak için &a30 saniye &7bekleyin."
