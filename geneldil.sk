@@ -1,5 +1,5 @@
 on load:
-  set {Motd_Server} to "&7Oyunbaz Network &8&l» &f{GUNCELLEME}"
+  set {Motd_Server} to "&7Oyunbaz Network &8&l» &f{GUNCELLEME}                                    &6▶ &eHemen katılmak için buraya tıkla. &6◀"" 
   set {HaberAyarlandi} to "&aHaber ayarlandı:&7 "
   set {HaberGir} to "&7Lütfen bir haber gir."
   set {Iznin_Yok} to "&7Bunun için iznin yok."
