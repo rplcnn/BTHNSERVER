@@ -1,0 +1,2 @@
+on load:
+  set {Motd_Server} to "&7Oyunbaz Network &8&l» &f{GUNCELLEME}                         &6▶ &eHemen katılmak için buraya tıkla. &6◀"
