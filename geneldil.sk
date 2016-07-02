@@ -1,5 +1,5 @@
 on load:
-  set {Motd_Server} to " &8➥ &7Oyunbaz Network &f&l&m-&r &8[&f1.8 &8- &f1.10&8]  &e&lHEMEN KATIL!   &f{GUNCELLEME} "
+  set {Motd_Server} to " &8➥ &7Oyunbaz Network &f&l&m-&r &8[&f1.8 &8- &f1.10&8]  &e&lHEMEN KATIL!   &f{GUNCELLEME}" 
   set {HaberAyarlandi} to "&aHaber ayarlandı:&7 "
   set {HaberSilindi} to "&7Mevcut haber sıfırlandı."
   set {Iznin_Yok} to "&7Bunun için iznin yok."
