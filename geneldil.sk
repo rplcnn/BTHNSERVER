@@ -4,3 +4,4 @@ on load:
   set {HaberSilindi} to "&7Mevcut haber sıfırlandı."
   set {Iznin_Yok} to "&7Bunun için iznin yok."
   set {Cok_Uzun} to "&7Girdiğin mesaj çok uzun."
+  set {Lobi_Dunyasi} to "world"
