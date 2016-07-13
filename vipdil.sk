@@ -76,6 +76,6 @@ on load:
   set {VIP_Paket_Tutari} to "&7Paketini &e{JETON} &7jetona alabilirsin."
   set {VIP_Menu_3} to "&aPaket Özellikleri:"
   set {Hic_Ozellik_Yok} to "&7Hiç özellik seçmemişsin."
-  set {Ucret_Yazi} to "         &7Fiyatı: &e{JETON}"
+  set {Ucret_Yazi} to "&7➠ Fiyatı: &e{JETON}"
   set {Pakete_Ekle} to "&aPakete eklemek için tıkla."
   set {Paketten_Cikar} to "&cPaketten çıkarmak için tıkla."
