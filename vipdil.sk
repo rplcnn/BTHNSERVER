@@ -75,4 +75,4 @@ on load:
   set {VIP_Menu_2} to "&aPaket Özeti"
   set {VIP_Menu_3} to "&7Paket Tutarı:"
   set {VIP_Menu_4} to "&7Paket Özellikleri:"
-  
+  set {Hic_Ozellik_Yok} to "&cHiç özellik seçmemişsin."
