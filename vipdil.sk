@@ -79,3 +79,5 @@ on load:
   set {Ucret_Yazi} to "&7➠ Fiyatı: &e{JETON}"
   set {Pakete_Ekle} to "&aPakete eklemek için tıkla."
   set {Paketten_Cikar} to "&cPaketten çıkarmak için tıkla."
+  set {Ozellik_Eklendi} to "&e{JETON} &7değerinde olan &a{OZELLIK} &7pakete eklendi."
+  set {Ozellik_Cikarildi} to "&e{JETON} &7değerinde olan &c{OZELLIK} &7paketten çıkarıldı."
