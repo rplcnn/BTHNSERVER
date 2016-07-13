@@ -36,7 +36,7 @@ on load:
   set {Ozellik_Aciklama_16} to "Bakiyenize anında eklenir."
   set {Ozellik_Aciklama_17} to "Bakiyenize anında eklenir."
   set {Ozellik_Aciklama_18} to "Bakiyenize anında eklenir."
-  set {Ozellik_Esya_1} to "paper" parsed as material
+  set {Ozellik_Esya_1} to "book" parsed as material
   set {Ozellik_Esya_2} to "cooked beef" parsed as material
   set {Ozellik_Esya_3} to "feather" parsed as material
   set {Ozellik_Esya_4} to "ender pearl" parsed as material
