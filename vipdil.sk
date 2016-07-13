@@ -81,3 +81,5 @@ on load:
   set {Paketten_Cikar} to "&cPaketten çıkarmak için tıkla."
   set {Ozellik_Eklendi} to "&e{JETON} &7değerinde olan &a{OZELLIK} &7pakete eklendi."
   set {Ozellik_Cikarildi} to "&e{JETON} &7değerinde olan &c{OZELLIK} &7paketten çıkarıldı."
+  set {Ozellik_Var} to "&7Bu özellik paketinde zaten bulunuyor."
+  set {Ozellik_Yok} to "&7Bu özellik paketinde zaten yok."
