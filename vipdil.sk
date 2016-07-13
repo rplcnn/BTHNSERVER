@@ -72,7 +72,6 @@ on load:
   set {Ozellik_Fiyat_16} to "3" parsed as integer
   set {Ozellik_Fiyat_17} to "6" parsed as integer
   set {Ozellik_Fiyat_18} to "11" parsed as integer
-  set {VIP_Menu_2} to "         &a&nPaket Özeti"
-  set {VIP_Menu_3} to "&7Paket Tutarı: "
-  set {VIP_Menu_4} to "&7Paket Özellikleri: "
+  set {VIP_Menu_2} to "&7Paket Tutarı:"
+  set {VIP_Menu_3} to "&7Paket Özellikleri:"
   set {Hic_Ozellik_Yok} to "&cHiç özellik seçmemişsin."
