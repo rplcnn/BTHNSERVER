@@ -1,5 +1,5 @@
 on load:
-  set {Prefix} to "&8Oyunbaz &f➠"
+  set {Prefix} to "&6Oyunbaz &8➠"
   set {Motd_Server} to " &8➥ &7Oyunbaz Network &f&l&m-&r &8[&f1.8 &8- &f1.10&8]  &e&lHEMEN KATIL!      &e▶ &f{GUNCELLEME} &e◀" 
   set {HaberAyarlandi} to "&aHaber ayarlandı:&7 "
   set {HaberSilindi} to "&7Mevcut haber sıfırlandı."
