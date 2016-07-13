@@ -36,41 +36,41 @@ on load:
   set {Ozellik_Aciklama_16} to "Bakiyenize anında eklenir."
   set {Ozellik_Aciklama_17} to "Bakiyenize anında eklenir."
   set {Ozellik_Aciklama_18} to "Bakiyenize anında eklenir."
-  set {Ozellik_Esya_1} to "paper"
-  set {Ozellik_Esya_2} to "cooked beef"
-  set {Ozellik_Esya_3} to "feather"
-  set {Ozellik_Esya_4} to "ender pearl"
-  set {Ozellik_Esya_5} to "name tag"
-  set {Ozellik_Esya_6} to "mob spawner"
-  set {Ozellik_Esya_7} to "diamond helmet of protection 4"
-  set {Ozellik_Esya_8} to "diamond sword of sharpness 4"
-  set {Ozellik_Esya_9} to "diamond pickaxe of unbreaking 10 and fortune 4"
-  set {Ozellik_Esya_10} to "diamond chestplate of protection 5"
-  set {Ozellik_Esya_11} to "anvil"
-  set {Ozellik_Esya_12} to "glass"
-  set {Ozellik_Esya_13} to "8 of player head"
-  set {Ozellik_Esya_14} to "12 of player head"
-  set {Ozellik_Esya_15} to "16 of player head"
-  set {Ozellik_Esya_16} to "25 of sunflower"
-  set {Ozellik_Esya_17} to "50 of sunflower"
-  set {Ozellik_Esya_18} to "sunflower of unbreaking 10"
-  set {Ozellik_Fiyat_1} to "1"
-  set {Ozellik_Fiyat_2} to "2"
-  set {Ozellik_Fiyat_3} to "13"
-  set {Ozellik_Fiyat_4} to "1"
-  set {Ozellik_Fiyat_5} to "1"
-  set {Ozellik_Fiyat_6} to "1"
-  set {Ozellik_Fiyat_7} to "4"
-  set {Ozellik_Fiyat_8} to "4"
-  set {Ozellik_Fiyat_9} to "12"
-  set {Ozellik_Fiyat_10} to "10"
-  set {Ozellik_Fiyat_11} to "3"
-  set {Ozellik_Fiyat_12} to "1"
-  set {Ozellik_Fiyat_13} to "1"
-  set {Ozellik_Fiyat_14} to "2"
-  set {Ozellik_Fiyat_15} to "13"
-  set {Ozellik_Fiyat_16} to "3"
-  set {Ozellik_Fiyat_17} to "6"
-  set {Ozellik_Fiyat_18} to "11"
+  set {Ozellik_Esya_1} to "paper" parsed as material
+  set {Ozellik_Esya_2} to "cooked beef" parsed as material parsed as material
+  set {Ozellik_Esya_3} to "feather" parsed as material
+  set {Ozellik_Esya_4} to "ender pearl" parsed as material
+  set {Ozellik_Esya_5} to "name tag" parsed as material
+  set {Ozellik_Esya_6} to "mob spawner" parsed as material
+  set {Ozellik_Esya_7} to "diamond helmet of protection 4" parsed as material
+  set {Ozellik_Esya_8} to "diamond sword of sharpness 4" parsed as material
+  set {Ozellik_Esya_9} to "diamond pickaxe of unbreaking 10 and fortune 4" parsed as material
+  set {Ozellik_Esya_10} to "diamond chestplate of protection 5" parsed as material
+  set {Ozellik_Esya_11} to "anvil" parsed as material
+  set {Ozellik_Esya_12} to "glass" parsed as material
+  set {Ozellik_Esya_13} to "8 of player head" parsed as material
+  set {Ozellik_Esya_14} to "12 of player head" parsed as material
+  set {Ozellik_Esya_15} to "16 of player head" parsed as material
+  set {Ozellik_Esya_16} to "25 of sunflower" parsed as material parsed as material
+  set {Ozellik_Esya_17} to "50 of sunflower" parsed as material
+  set {Ozellik_Esya_18} to "sunflower of unbreaking 10" parsed as material
+  set {Ozellik_Fiyat_1} to "1" parsed as integer
+  set {Ozellik_Fiyat_2} to "2" parsed as integer
+  set {Ozellik_Fiyat_3} to "13" parsed as integer
+  set {Ozellik_Fiyat_4} to "1" parsed as integer
+  set {Ozellik_Fiyat_5} to "1" parsed as integer
+  set {Ozellik_Fiyat_6} to "1" parsed as integer
+  set {Ozellik_Fiyat_7} to "4" parsed as integer
+  set {Ozellik_Fiyat_8} to "4" parsed as integer
+  set {Ozellik_Fiyat_9} to "12" parsed as integer
+  set {Ozellik_Fiyat_10} to "10" parsed as integer
+  set {Ozellik_Fiyat_11} to "3" parsed as integer
+  set {Ozellik_Fiyat_12} to "1" parsed as integer
+  set {Ozellik_Fiyat_13} to "1" parsed as integer
+  set {Ozellik_Fiyat_14} to "2" parsed as integer
+  set {Ozellik_Fiyat_15} to "13" parsed as integer
+  set {Ozellik_Fiyat_16} to "3" parsed as integer
+  set {Ozellik_Fiyat_17} to "6" parsed as integer
+  set {Ozellik_Fiyat_18} to "11" parsed as integer
   
   
