@@ -1,0 +1,10 @@
+on load:
+  set {VIP_1} to "&8&l» &8VIP Menüsü"
+  set {VIP_2} to "&aBaşlıklar"
+  set {VIP_Yazi_2} to "||&7&oSohbette yanında gözüken başlıkları incele." 
+  set {VIP_3} to "&aVIP Paketi Oluştur"
+  set {VIP_Yazi_3} to "||&7&oKendine göre vip paketi oluşturmak için tıkla."
+  set {VIP_4} to "&aMevcut Paketinin Durumu"
+  set {VIP_Yazi_4} to "||&7Paket Kodu: &f{KOD}||||&7Alış Tarihi:||&f{ALIŞ}||||&7Bitiş Tarihi:||&f{BİTİŞ}"
+  set {VIP_Paketin_Yok} to "||&c&oBir VIP-Paketin yok."
+  
