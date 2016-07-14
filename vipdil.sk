@@ -36,4 +36,3 @@ on load:
   set {Baslik_Yazi} to "&7Başlığı"
   set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu||&7geçerse bu başlığı kullanabilirsin."
   set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
-  set {Miktar_Az} to "&7Bir paket almak için toplam tutarın en az &e{JETON} &7olması gerek."
