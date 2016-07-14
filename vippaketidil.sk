@@ -48,12 +48,12 @@ on load:
   set {Ozellik_Esya_10} to "diamond chestplate of protection 5" parsed as material
   set {Ozellik_Esya_11} to "anvil" parsed as material
   set {Ozellik_Esya_12} to "glass" parsed as material
-  set {Ozellik_Esya_13} to "8 of player head" parsed as material
-  set {Ozellik_Esya_14} to "12 of player head" parsed as material
+  set {Ozellik_Esya_13} to "dirt" parsed as material
+  set {Ozellik_Esya_14} to "grass" parsed as material
   set {Ozellik_Esya_15} to "chest" parsed as material
-  set {Ozellik_Esya_16} to "25 of golden ingot" parsed as material
-  set {Ozellik_Esya_17} to "50 of golden ingot" parsed as material
-  set {Ozellik_Esya_18} to "golden ingot of unbreaking 10" parsed as material
+  set {Ozellik_Esya_16} to "coal" parsed as material
+  set {Ozellik_Esya_17} to "iron ingot" parsed as material
+  set {Ozellik_Esya_18} to "golden ingot" parsed as material
   set {Ozellik_Fiyat_1} to "4" parsed as integer
   set {Ozellik_Fiyat_2} to "6" parsed as integer
   set {Ozellik_Fiyat_3} to "30" parsed as integer
