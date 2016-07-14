@@ -14,7 +14,7 @@ on load:
   set {Ozellik_12} to "Şapka"
   set {Ozellik_13} to "Adaya 8 Kişi Alabilme"
   set {Ozellik_14} to "Adaya 12 Kişi Alabilme"
-  set {Ozellik_15} to "Adaya 16 Kişi Alabilme"
+  set {Ozellik_15} to "VIP-Market'e Giriş"
   set {Ozellik_16} to "250.000 Oyun Parası"
   set {Ozellik_17} to "500.000 Oyun Parası"
   set {Ozellik_18} to "1.000.000 Oyun Parası"
@@ -32,10 +32,10 @@ on load:
   set {Ozellik_Aciklama_12} to "/şapka komutu ile kafasına blokları geçirebilir."
   set {Ozellik_Aciklama_13} to "Adaya toplamda 8 kişi davet edebilir."
   set {Ozellik_Aciklama_14} to "Adaya toplamda 12 kişi davet edebilir."
-  set {Ozellik_Aciklama_15} to "Adaya toplamda 16 kişi davet edebilir."
-  set {Ozellik_Aciklama_16} to "Bakiyenize anında eklenir."
-  set {Ozellik_Aciklama_17} to "Bakiyenize anında eklenir."
-  set {Ozellik_Aciklama_18} to "Bakiyenize anında eklenir."
+  set {Ozellik_Aciklama_15} to "%%50 daha ucuz olan VIP-Market'e giriş yapabilirsiniz."
+  set {Ozellik_Aciklama_16} to "Paranız bakiyenize anında eklenir."
+  set {Ozellik_Aciklama_17} to "Paranız bakiyenize anında eklenir."
+  set {Ozellik_Aciklama_18} to "Paranız bakiyenize anında eklenir."
   set {Ozellik_Esya_1} to "book" parsed as material
   set {Ozellik_Esya_2} to "cooked beef" parsed as material
   set {Ozellik_Esya_3} to "feather" parsed as material
@@ -50,7 +50,7 @@ on load:
   set {Ozellik_Esya_12} to "glass" parsed as material
   set {Ozellik_Esya_13} to "8 of player head" parsed as material
   set {Ozellik_Esya_14} to "12 of player head" parsed as material
-  set {Ozellik_Esya_15} to "16 of player head" parsed as material
+  set {Ozellik_Esya_15} to "chest" parsed as material
   set {Ozellik_Esya_16} to "25 of golden ingot" parsed as material
   set {Ozellik_Esya_17} to "50 of golden ingot" parsed as material
   set {Ozellik_Esya_18} to "golden ingot of unbreaking 10" parsed as material
