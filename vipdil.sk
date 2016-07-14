@@ -32,7 +32,7 @@ on load:
   set {Ozellik_Aciklama_12} to "/şapka komutu ile kafasına blokları geçirebilir."
   set {Ozellik_Aciklama_13} to "Adaya toplamda 8 kişi davet edebilir."
   set {Ozellik_Aciklama_14} to "Adaya toplamda 12 kişi davet edebilir."
-  set {Ozellik_Aciklama_15} to "%%50 daha ucuz olan VIP-Market'e giriş yapabilirsiniz."
+  set {Ozellik_Aciklama_15} to "Ucuz VIP-Market'e girebilirsiniz."
   set {Ozellik_Aciklama_16} to "Paranız bakiyenize anında eklenir."
   set {Ozellik_Aciklama_17} to "Paranız bakiyenize anında eklenir."
   set {Ozellik_Aciklama_18} to "Paranız bakiyenize anında eklenir."
