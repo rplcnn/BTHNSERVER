@@ -54,24 +54,24 @@ on load:
   set {Ozellik_Esya_16} to "25 of golden ingot" parsed as material
   set {Ozellik_Esya_17} to "50 of golden ingot" parsed as material
   set {Ozellik_Esya_18} to "golden ingot of unbreaking 10" parsed as material
-  set {Ozellik_Fiyat_1} to "1" parsed as integer
-  set {Ozellik_Fiyat_2} to "2" parsed as integer
-  set {Ozellik_Fiyat_3} to "13" parsed as integer
-  set {Ozellik_Fiyat_4} to "1" parsed as integer
-  set {Ozellik_Fiyat_5} to "5" parsed as integer
-  set {Ozellik_Fiyat_6} to "1" parsed as integer
-  set {Ozellik_Fiyat_7} to "4" parsed as integer
+  set {Ozellik_Fiyat_1} to "4" parsed as integer
+  set {Ozellik_Fiyat_2} to "6" parsed as integer
+  set {Ozellik_Fiyat_3} to "30" parsed as integer
+  set {Ozellik_Fiyat_4} to "3" parsed as integer
+  set {Ozellik_Fiyat_5} to "3" parsed as integer
+  set {Ozellik_Fiyat_6} to "4" parsed as integer
+  set {Ozellik_Fiyat_7} to "2" parsed as integer
   set {Ozellik_Fiyat_8} to "4" parsed as integer
-  set {Ozellik_Fiyat_9} to "12" parsed as integer
-  set {Ozellik_Fiyat_10} to "10" parsed as integer
-  set {Ozellik_Fiyat_11} to "3" parsed as integer
+  set {Ozellik_Fiyat_9} to "6" parsed as integer
+  set {Ozellik_Fiyat_10} to "8" parsed as integer
+  set {Ozellik_Fiyat_11} to "4" parsed as integer
   set {Ozellik_Fiyat_12} to "1" parsed as integer
-  set {Ozellik_Fiyat_13} to "5" parsed as integer
-  set {Ozellik_Fiyat_14} to "7" parsed as integer
-  set {Ozellik_Fiyat_15} to "3" parsed as integer
-  set {Ozellik_Fiyat_16} to "3" parsed as integer
-  set {Ozellik_Fiyat_17} to "6" parsed as integer
-  set {Ozellik_Fiyat_18} to "11" parsed as integer
+  set {Ozellik_Fiyat_13} to "10" parsed as integer
+  set {Ozellik_Fiyat_14} to "20" parsed as integer
+  set {Ozellik_Fiyat_15} to "14" parsed as integer
+  set {Ozellik_Fiyat_16} to "6" parsed as integer
+  set {Ozellik_Fiyat_17} to "9" parsed as integer
+  set {Ozellik_Fiyat_18} to "15" parsed as integer
   set {VIP_Menu_2} to "&aPaketi Temizle"
   set {VIP_Paket_Tutari} to "&7Paketini toplam &e{JETON} &7jetona alabilirsin."
   set {VIP_Menu_3} to "&aPaket Özellikleri:"
@@ -93,6 +93,12 @@ on load:
   set {Baslik_4} to "&e&lVIP&6&l++++"
   set {Baslik_5} to "&a[Bağışcı]"
   set {Baslik_6} to "&9[Üst Bağışcı]"
+  set {Baslik_Fiyat_1} to "30" parsed as integer
+  set {Baslik_Fiyat_2} to "40" parsed as integer
+  set {Baslik_Fiyat_3} to "50" parsed as integer
+  set {Baslik_Fiyat_4} to "60" parsed as integer
+  set {Baslik_Fiyat_5} to "10" parsed as integer
+  set {Baslik_Fiyat_6} to "20" parsed as integer
   set {Baslik_Yazi} to "&7Başlığı"
   set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu||&7geçerse bu başlığı kullanabilirsin."
   set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
