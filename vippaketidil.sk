@@ -42,10 +42,10 @@ on load:
   set {Ozellik_Esya_4} to "ender pearl" parsed as material
   set {Ozellik_Esya_5} to "clock" parsed as material
   set {Ozellik_Esya_6} to "mob spawner" parsed as material
-  set {Ozellik_Esya_7} to "diamond helmet of protection 4" parsed as material
-  set {Ozellik_Esya_8} to "diamond sword of sharpness 4" parsed as material
-  set {Ozellik_Esya_9} to "diamond pickaxe of unbreaking 10 and fortune 4" parsed as material
-  set {Ozellik_Esya_10} to "diamond chestplate of protection 5" parsed as material
+  set {Ozellik_Esya_7} to "diamond helmet" parsed as material
+  set {Ozellik_Esya_8} to "diamond sword" parsed as material
+  set {Ozellik_Esya_9} to "diamond pickaxe" parsed as material
+  set {Ozellik_Esya_10} to "diamond chestplate" parsed as material
   set {Ozellik_Esya_11} to "anvil" parsed as material
   set {Ozellik_Esya_12} to "glass" parsed as material
   set {Ozellik_Esya_13} to "dirt" parsed as material
