@@ -26,3 +26,7 @@ on load:
   set {Davetler_Kapali} to "&7Bu oyuncu arkadaşlık davetlerini kapatmış."
   set {Davetler_Kapandi} to "&7Arkadaşlık davetlerini kapattınız, artık size davet gelmeyecek."
   set {Davetler_Acildi} to "&7Arkadaşlık davetlerini açtınız."
+  set {Arkadas_Cikarildi} to "&c{OYUNCU} &7arkadaşlarınızdan çıkarıldı."
+  set {Arkadaslik_Bitti} to "&c{OYUNCU} &7ile sizin aranızdaki arkadaşlık sonlandı"
+  set {Arkadas_Ekli_Degil} to "&7Zaten arkadaş değilsiniz."
+  
