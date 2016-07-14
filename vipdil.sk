@@ -90,23 +90,21 @@ on load:
   set {Baslik_1} to "&a&lVIP&2&l+"
   set {Baslik_2} to "&b&lVIP&9&l++"
   set {Baslik_3} to "&d&lVIP&5&l+++"
-  set {Baslik_4} to "&e&lVIP&6&l++++"
-  set {Baslik_5} to "&a[Bağışcı]"
-  set {Baslik_6} to "&9[Kral Bağışcı]"
-  set {Baslik_7} to "&2[Yardımsever]"
-  set {Baslik_8} to "&9[Hizmetkâr]"
-  set {Baslik_9} to "&e[Sponsor]"
-  set {Baslik_10} to "&c[Patron]"
+  set {Baslik_4} to "&a[Bağışcı]"
+  set {Baslik_5} to "&9[Kral Bağışcı]"
+  set {Baslik_6} to "&2[Yardımsever]"
+  set {Baslik_7} to "&9[Hizmetkâr]"
+  set {Baslik_8} to "&e[Sponsor]"
+  set {Baslik_9} to "&c[Patron]"
   set {Baslik_Fiyat_1} to "30" parsed as integer
   set {Baslik_Fiyat_2} to "40" parsed as integer
   set {Baslik_Fiyat_3} to "50" parsed as integer
-  set {Baslik_Fiyat_4} to "60" parsed as integer
-  set {Baslik_Fiyat_5} to "5" parsed as integer
-  set {Baslik_Fiyat_6} to "10" parsed as integer
-  set {Baslik_Fiyat_7} to "20" parsed as integer
-  set {Baslik_Fiyat_8} to "30" parsed as integer
-  set {Baslik_Fiyat_9} to "100" parsed as integer
-  set {Baslik_Fiyat_10} to "200" parsed as integer
+  set {Baslik_Fiyat_4} to "5" parsed as integer
+  set {Baslik_Fiyat_5} to "15" parsed as integer
+  set {Baslik_Fiyat_6} to "25" parsed as integer
+  set {Baslik_Fiyat_7} to "50" parsed as integer
+  set {Baslik_Fiyat_8} to "100" parsed as integer
+  set {Baslik_Fiyat_9} to "200" parsed as integer
   set {Baslik_Yazi} to "&7Başlığı"
   set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu||&7geçerse bu başlığı kullanabilirsin."
   set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
