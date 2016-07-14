@@ -114,5 +114,5 @@ on load:
   set {VIP_Satin_Al_2} to "&a3 Aylık Satın Al"
   set {VIP_Satin_Al_3} to "&a1 Yıllık Satın Al"
   set {VIP_Satin_Al_Yazi_1} to "||&7Bu paketi &e{JETON} &7jetona||&21 aylık &7satın almak için tıkla."
-  set {VIP_Satin_Al_Yazi_2} to "||&7Bu paketi &e{JETON} &7jetona||&23 aylık &7satın almak için tıkla. (%%10 indirimli)"
-  set {VIP_Satin_Al_Yazi_3} to "||&7Bu paketi &e{JETON} &7jetona||&21 yıllık &7satın almak için tıkla. (%%30 indirimli)"
+  set {VIP_Satin_Al_Yazi_2} to "||&7Bu paketi &e{JETON} &7jetona||&23 aylık &7satın almak için tıkla."
+  set {VIP_Satin_Al_Yazi_3} to "||&7Bu paketi &e{JETON} &7jetona||&21 yıllık &7satın almak için tıkla."
