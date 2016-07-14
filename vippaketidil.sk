@@ -96,3 +96,4 @@ on load:
   set {VIP_Satin_Al_Yazi_3} to "||&7Bu paketi &e{JETON} &7jetona||&21 yıllık &7satın almak için tıkla."
   set {Senin_Paketin_Var} to "&7Senin zaten bir paketin var, onun bitmesini bekle."
   set {Miktar_Az} to "&7Bir paket almak için toplam tutarın en az &e{JETON} &7olması gerek."
+  set {Paket_Satin_Alindi} to "&aPaket başarılı birşekilde satın alındı."
