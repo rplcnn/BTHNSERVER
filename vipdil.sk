@@ -82,8 +82,8 @@ on load:
   set {Ozellik_Fiyat_10} to "10" parsed as integer
   set {Ozellik_Fiyat_11} to "3" parsed as integer
   set {Ozellik_Fiyat_12} to "1" parsed as integer
-  set {Ozellik_Fiyat_13} to "1" parsed as integer
-  set {Ozellik_Fiyat_14} to "2" parsed as integer
+  set {Ozellik_Fiyat_13} to "5" parsed as integer
+  set {Ozellik_Fiyat_14} to "7" parsed as integer
   set {Ozellik_Fiyat_15} to "3" parsed as integer
   set {Ozellik_Fiyat_16} to "3" parsed as integer
   set {Ozellik_Fiyat_17} to "6" parsed as integer
