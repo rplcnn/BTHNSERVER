@@ -5,7 +5,7 @@ on load:
   set {Ozellik_3} to "Sınırsız Uçma Hakkı"
   set {Ozellik_4} to "Anında Işınlanma"
   set {Ozellik_5} to "Sunucu Doluyken Girebilme"
-  set {Ozellik_6} to "İpeksiyle Spawneri Alma"
+  set {Ozellik_6} to "Ipeksiyle Spawneri Alma"
   set {Ozellik_7} to "VIP Kiti I"
   set {Ozellik_8} to "VIP Kiti II"
   set {Ozellik_9} to "VIP Kiti III"
@@ -68,7 +68,7 @@ on load:
   set {Ozellik_Fiyat_12} to "1" parsed as integer
   set {Ozellik_Fiyat_13} to "1" parsed as integer
   set {Ozellik_Fiyat_14} to "2" parsed as integer
-  set {Ozellik_Fiyat_15} to "13" parsed as integer
+  set {Ozellik_Fiyat_15} to "3" parsed as integer
   set {Ozellik_Fiyat_16} to "3" parsed as integer
   set {Ozellik_Fiyat_17} to "6" parsed as integer
   set {Ozellik_Fiyat_18} to "11" parsed as integer
