@@ -3,7 +3,7 @@ on load:
   set {Jeton_1} to "&aJeton Satın Al"
   set {Jeton_2} to "&aJetonların:"
   set {Jeton_3} to "&aJeton Gönder"
-  set {Jeton_Yazi_1} to "||&7&oHızlıca jeton satın almak için tıkla."
+  set {Jeton_Yazi_1} to "||&7&oHızlıca jeton satın almak için tıkla.||&e1 ⛃ = 1 TL"
   set {Jeton_Yazi_2} to "||&e{JETON} &7jetona sahipsin."
   set {Jeton_Yazi_3} to "||&7&oArkadaşlarına jeton göndermek için tıkla."
   set {Yeteri_Kadar_Jeton_Yok} to "&7Bunun için yeteri kadar jetonun yok.&e"
