@@ -116,3 +116,8 @@ on load:
   set {VIP_Satin_Al_Yazi_1} to "||&7Bu paketi &e{JETON} &7jetona||&21 aylık &7satın almak için tıkla."
   set {VIP_Satin_Al_Yazi_2} to "||&7Bu paketi &e{JETON} &7jetona||&23 aylık &7satın almak için tıkla."
   set {VIP_Satin_Al_Yazi_3} to "||&7Bu paketi &e{JETON} &7jetona||&21 yıllık &7satın almak için tıkla."
+  set {Yazi_Yil} to "yıl"
+  set {Yazi_Gun} to "gün"
+  set {Yazi_Saat} to "saat"
+  set {Yazi_Dakika} to "dakika"
+  set {Yazi_Saniye} to "saniye"
