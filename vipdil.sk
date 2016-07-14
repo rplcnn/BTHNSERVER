@@ -36,3 +36,5 @@ on load:
   set {Baslik_Yazi} to "&7Başlığı"
   set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu||&7geçerse bu başlığı kullanabilirsin."
   set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
+  set {Paketin_Suresi_Doldu} to "&a{TARIH} &7tarihinde aldığın VIP-Paket'inin süresi doldu."
+  
