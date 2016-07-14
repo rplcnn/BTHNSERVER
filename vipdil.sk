@@ -121,3 +121,4 @@ on load:
   set {Yazi_Saat} to "saat"
   set {Yazi_Dakika} to "dakika"
   set {Yazi_Saniye} to "saniye"
+  set {Paketin_Bitmesine} to "&7VIP Paketinin bitmesine &e{ZAMAN} &7süre var."
