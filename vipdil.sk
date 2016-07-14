@@ -18,12 +18,6 @@ on load:
   set {Ozellik_16} to "250.000 Oyun Parası"
   set {Ozellik_17} to "500.000 Oyun Parası"
   set {Ozellik_18} to "1.000.000 Oyun Parası"
-  set {Ozellik_19} to "&a&lVIP&2&l+ &7Başlığı"
-  set {Ozellik_20} to "&b&lVIP&9&l++ &7Başlığı"
-  set {Ozellik_21} to "&d&lVIP&5&l+++ &7Başlığı"
-  set {Ozellik_22} to "&e&lVIP&6&l++++ &7Başlığı"
-  set {Ozellik_23} to "&a[Skyblock Ustası] &7Başlığı"
-  set {Ozellik_24} to "&9[Skyblock Kralı] &7Başlığı"
   set {Ozellik_Aciklama_1} to "Sohbette renkli yazmanızı sağlar."
   set {Ozellik_Aciklama_2} to "/besle komutu ile kendini doyurabilirsin."
   set {Ozellik_Aciklama_3} to "/uç komutu ile uçabilirsin."
@@ -42,12 +36,6 @@ on load:
   set {Ozellik_Aciklama_16} to "Paranız bakiyenize anında eklenir."
   set {Ozellik_Aciklama_17} to "Paranız bakiyenize anında eklenir."
   set {Ozellik_Aciklama_18} to "Paranız bakiyenize anında eklenir."
-  set {Ozellik_Aciklama_19} to "Sohbette adınızın yanında gözükür."
-  set {Ozellik_Aciklama_20} to "Sohbette adınızın yanında gözükür."
-  set {Ozellik_Aciklama_21} to "Sohbette adınızın yanında gözükür."
-  set {Ozellik_Aciklama_22} to "Sohbette adınızın yanında gözükür."
-  set {Ozellik_Aciklama_23} to "Sohbette adınızın yanında gözükür."
-  set {Ozellik_Aciklama_24} to "Sohbette adınızın yanında gözükür."
   set {Ozellik_Esya_1} to "book" parsed as material
   set {Ozellik_Esya_2} to "cooked beef" parsed as material
   set {Ozellik_Esya_3} to "feather" parsed as material
@@ -66,12 +54,6 @@ on load:
   set {Ozellik_Esya_16} to "25 of golden ingot" parsed as material
   set {Ozellik_Esya_17} to "50 of golden ingot" parsed as material
   set {Ozellik_Esya_18} to "golden ingot of unbreaking 10" parsed as material
-  set {Ozellik_Esya_19} to "name tag" parsed as material
-  set {Ozellik_Esya_20} to "name tag" parsed as material
-  set {Ozellik_Esya_21} to "name tag" parsed as material
-  set {Ozellik_Esya_22} to "name tag" parsed as material
-  set {Ozellik_Esya_23} to "name tag" parsed as material
-  set {Ozellik_Esya_24} to "name tag" parsed as material
   set {Ozellik_Fiyat_1} to "1" parsed as integer
   set {Ozellik_Fiyat_2} to "2" parsed as integer
   set {Ozellik_Fiyat_3} to "13" parsed as integer
@@ -90,12 +72,6 @@ on load:
   set {Ozellik_Fiyat_16} to "3" parsed as integer
   set {Ozellik_Fiyat_17} to "6" parsed as integer
   set {Ozellik_Fiyat_18} to "11" parsed as integer
-  set {Ozellik_Fiyat_19} to "7" parsed as integer
-  set {Ozellik_Fiyat_20} to "12" parsed as integer
-  set {Ozellik_Fiyat_21} to "20" parsed as integer
-  set {Ozellik_Fiyat_22} to "16" parsed as integer
-  set {Ozellik_Fiyat_23} to "5" parsed as integer
-  set {Ozellik_Fiyat_24} to "5" parsed as integer
   set {VIP_Menu_2} to "&aPaketi Temizle"
   set {VIP_Paket_Tutari} to "&7Paketini toplam &e{JETON} &7jetona alabilirsin."
   set {VIP_Menu_3} to "&aPaket Özellikleri:"
@@ -111,3 +87,13 @@ on load:
   set {VIP_Menu_5} to "&bPaketi satın almak için buraya tıkla."
   set {VIP_Menu_6} to "&7&oPaketini temizlemek için buraya tıkla."
   set {Paket_Temizlendi} to "&7Paketin temizlendi."
+  set {Baslik_1} to "&a&lVIP&2&l+"
+  set {Baslik_2} to "&b&lVIP&9&l++"
+  set {Baslik_3} to "&d&lVIP&5&l+++"
+  set {Baslik_4} to "&e&lVIP&6&l++++"
+  set {Baslik_5} to "&a[Bağışcı]"
+  set {Baslik_6} to "&9[Üst Bağışcı]"
+  set {Baslik_Yazi} to "&7Başlığı"
+  set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu geçerse bu başlığı kullanabilirsin."
+  set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
+  
