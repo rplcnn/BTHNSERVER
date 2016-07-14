@@ -5,7 +5,7 @@ on load:
   set {VIP_3} to "&aVIP Paketi Oluştur"
   set {VIP_Yazi_3} to "||&7&oKendine göre vip paketi oluşturmak||&7&oiçin tıkla. İstediğin özellikleri||&7&oseçip paket yapabilirsin."
   set {VIP_4} to "&aMevcut Paketinin Durumu"
-  set {VIP_Yazi_4} to "||&7Paket Kodu: &f{KOD}||||&7Alış Tarihi:||&f{ALIŞ}||||&7Bitiş Tarihi:||&f{BİTİŞ}"
+  set {VIP_Yazi_4} to "||&7Paket Kodu: &f{KOD}||||&7Alış Tarihi:||&f{ALIŞ}||||&7Bitiş Tarihi:||&f{BİTİŞ}||&7Kalan Süre:||&f{TARIH}"
   set {VIP_Paketin_Yok} to "||&c&oBir VIP-Paketin yok."
   set {Yazi_Yil} to "yıl"
   set {Yazi_Ay} to "ay"
