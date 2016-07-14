@@ -86,3 +86,4 @@ on load:
   set {VIP_Menu_4} to "&ePaketi Satın Al"
   set {VIP_Menu_5} to "&7&oPaketi satın almak için buraya tıkla."
   set {VIP_Menu_6} to "&7&oPaketini temizlemek için buraya tıkla."
+  set {Paket_Temizlendi} to "&7Paketin temizlendi."
