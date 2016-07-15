@@ -24,8 +24,8 @@ on load:
   set {Ozellik_Aciklama_4} to "İstenilen yerlere beklemeden ışınlanabilirsin."
   set {Ozellik_Aciklama_5} to "Sunucu doluyken sunucuya girebilirsiniz."
   set {Ozellik_Aciklama_6} to "İpeksili kazmaları kullanarak spawnerları alabilirsiniz."
-  set {Ozellik_Aciklama_7} to " ● Koruma IV Elmas Set||&7 ● Kırılmazlık I, Servet I Elmas Kazma||&7 ● Keskinlik IV Elmas Kılıç||&a&o- Sınırsız hak."
-  set {Ozellik_Aciklama_8} to " ● Koruma III Elmas Set||&7 ● Kırılmazlık IV, Servet II Elmas Kazma||&7 ● Keskinlik II Elmas Kılıç||&a&o- Sınırsız hak."
+  set {Ozellik_Aciklama_7} to " ● Koruma IV Elmas Set||&7 ● Kırılmazlık I, Servet I Elmas Kazma||&7 ● Keskinlik IV Elmas Kılıç||&7&oSüresizdir."
+  set {Ozellik_Aciklama_8} to " ● Koruma III Elmas Set||&7 ● Kırılmazlık IV, Servet II Elmas Kazma||&7 ● Keskinlik II Elmas Kılıç||&7&oSüresizdir."
   set {Ozellik_Aciklama_9} to " ● Koruma II Elmas Set||&7 ● Kırılmazlık X, Servet IV Elmas Kazma||&a&o- Sınırsız hak."
   set {Ozellik_Aciklama_10} to " ● &7Koruma V Elmas Set||&7 ● Savurma III, Keskinlik VI Elmas Kazma||&a&o- Sınırsız hak."
   set {Ozellik_Aciklama_11} to "/tamiret komutu ile tüm eşyalarını tamir edebilirsin."
@@ -33,9 +33,9 @@ on load:
   set {Ozellik_Aciklama_13} to "Adaya toplamda 8 kişi davet edebilir."
   set {Ozellik_Aciklama_14} to "Adaya toplamda 12 kişi davet edebilir."
   set {Ozellik_Aciklama_15} to "Ucuz VIP-Market'e girebilirsiniz."
-  set {Ozellik_Aciklama_16} to "Paranız bakiyenize anında eklenir.||&a&o- Sınırsız hak."
-  set {Ozellik_Aciklama_17} to "Paranız bakiyenize anında eklenir.||&a&o- Sınırsız hak."
-  set {Ozellik_Aciklama_18} to "Paranız bakiyenize anında eklenir.||&a&o- Sınırsız hak."
+  set {Ozellik_Aciklama_16} to "Paranız bakiyenize anında eklenir.||&7&oSüresizdir."
+  set {Ozellik_Aciklama_17} to "Paranız bakiyenize anında eklenir.||&7&oSüresizdir."
+  set {Ozellik_Aciklama_18} to "Paranız bakiyenize anında eklenir.||&7&oSüresizdir."
   set {Ozellik_Esya_1} to "book" parsed as material
   set {Ozellik_Esya_2} to "cooked beef" parsed as material
   set {Ozellik_Esya_3} to "feather" parsed as material
@@ -54,24 +54,24 @@ on load:
   set {Ozellik_Esya_16} to "coal" parsed as material
   set {Ozellik_Esya_17} to "iron ingot" parsed as material
   set {Ozellik_Esya_18} to "golden ingot" parsed as material
-  set {Ozellik_Fiyat_1} to "4" parsed as integer
-  set {Ozellik_Fiyat_2} to "6" parsed as integer
-  set {Ozellik_Fiyat_3} to "30" parsed as integer
-  set {Ozellik_Fiyat_4} to "3" parsed as integer
-  set {Ozellik_Fiyat_5} to "3" parsed as integer
-  set {Ozellik_Fiyat_6} to "4" parsed as integer
-  set {Ozellik_Fiyat_7} to "2" parsed as integer
-  set {Ozellik_Fiyat_8} to "4" parsed as integer
-  set {Ozellik_Fiyat_9} to "9" parsed as integer
-  set {Ozellik_Fiyat_10} to "15" parsed as integer
-  set {Ozellik_Fiyat_11} to "4" parsed as integer
-  set {Ozellik_Fiyat_12} to "1" parsed as integer
-  set {Ozellik_Fiyat_13} to "10" parsed as integer
-  set {Ozellik_Fiyat_14} to "20" parsed as integer
-  set {Ozellik_Fiyat_15} to "14" parsed as integer
-  set {Ozellik_Fiyat_16} to "6" parsed as integer
-  set {Ozellik_Fiyat_17} to "9" parsed as integer
-  set {Ozellik_Fiyat_18} to "15" parsed as integer
+  set {Ozellik_Fiyat_1} to "20" parsed as integer
+  set {Ozellik_Fiyat_2} to "30" parsed as integer
+  set {Ozellik_Fiyat_3} to "250" parsed as integer
+  set {Ozellik_Fiyat_4} to "10" parsed as integer
+  set {Ozellik_Fiyat_5} to "42" parsed as integer
+  set {Ozellik_Fiyat_6} to "10" parsed as integer
+  set {Ozellik_Fiyat_7} to "10" parsed as integer
+  set {Ozellik_Fiyat_8} to "40" parsed as integer
+  set {Ozellik_Fiyat_9} to "90" parsed as integer
+  set {Ozellik_Fiyat_10} to "150" parsed as integer
+  set {Ozellik_Fiyat_11} to "40" parsed as integer
+  set {Ozellik_Fiyat_12} to "5" parsed as integer
+  set {Ozellik_Fiyat_13} to "80" parsed as integer
+  set {Ozellik_Fiyat_14} to "150" parsed as integer
+  set {Ozellik_Fiyat_15} to "40" parsed as integer
+  set {Ozellik_Fiyat_16} to "60" parsed as integer
+  set {Ozellik_Fiyat_17} to "90" parsed as integer
+  set {Ozellik_Fiyat_18} to "150" parsed as integer
   set {VIP_Menu_2} to "&aPaketi Temizle"
   set {VIP_Paket_Tutari} to "&7Paketini toplam &e{JETON} &7jetona alabilirsin."
   set {VIP_Menu_3} to "&aPaket Özellikleri:"
