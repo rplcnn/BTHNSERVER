@@ -97,3 +97,5 @@ on load:
   set {Senin_Paketin_Var} to "&7Senin zaten bir paketin var, onun bitmesini bekle."
   set {Miktar_Az} to "&7Bir paket almak için toplam tutarın en az &e{JETON} &7olması gerek."
   set {Paket_Satin_Alindi} to "&aPaket başarılı birşekilde satın alındı."
+  set {Ayni_Gorev_Ozellik} to "&7Aynı görevdeki özelliği tekrar seçemezsiniz."
+
