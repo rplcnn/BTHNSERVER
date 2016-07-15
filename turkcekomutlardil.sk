@@ -27,5 +27,6 @@ on load:
   set {Yardim_Sayfa_4_Satir_1} to " &8● &7/ada takımsohbet &f&l&m-&r &fAdanızdaki kişilerle sohbet edersiniz."
   set {Yardim_Sayfa_4_Satir_2} to " &8● &7/ada at <isim> &f&l&m-&r &fAdanızdan oyuncuyu atar."
   set {Yardim_Sayfa_4_Satir_3} to " &8● &7/ada lideryap <isim> &f&l&m-&r &fAda liderliğini oyuncuya verir."
-  set {Yardim_Sayfa_4_Satir_4} to " &8● &7/görevler &f&l&m-&r &fGörev listesini gösterir."
-  set {Yardim_Sayfa_4_Satir_5} to " &8● &7/görev bitir <isim> &f&l&m-&r &fGörevi bitirirsiniz."
+  set {Yardim_Sayfa_4_Satir_4} to " &8● &7/ada onay &f&l&m-&r &fBazı işlemlere onay verir." 
+  set {Yardim_Sayfa_4_Satir_5} to " &8● &7/görevler &f&l&m-&r &fGörev listesini gösterir."
+  set {Yardim_Sayfa_4_Satir_6} to " &8● &7/görev bitir <isim> &f&l&m-&r &fGörevi bitirirsiniz."
