@@ -6,3 +6,7 @@ on load:
   set {Iznin_Yok} to "&7Bunun için iznin yok."
   set {Cok_Uzun} to "&7Girdiğin mesaj çok uzun."
   set {Lobi_Dunyasi} to "world"
+  set {Easter_Egg_1} to "&7&oHiç hikayeyi duymadın mı? altın yumurtlayan tavuk kesilmez seni budala."
+  set {Easter_Egg_2} to "&a&oHikayenin canı cehenneme, altınlar senin olsun."
+  set {Easter_Egg_3} to "&c&oSanırım bu pislik tavukta kuş gribi vardı."
+  set {Easter_Egg_4} to "&b&oDünyadaki en şanslı kişisin galiba, altın yumurtlayan tavuk elmas yumurluyor..."
