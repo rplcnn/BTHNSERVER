@@ -58,7 +58,7 @@ on load:
   set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu||&7geçerse bu başlığı kullanabilirsin."
   set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
   set {Paketin_Suresi_Doldu} to "&a{TARIH} &7tarihinde aldığın VIP-Paket'inin süresi doldu."
-  set {Paket_Satin_Aldi} to "&a{OYUNCU} &7oyuncusu &e{TUTAR} &7jetona bir {PAKET} &7aldı."
+  set {Paket_Satin_Aldi} to "&a{OYUNCU} &7oyuncusu &e{TUTAR} &7jetona &9{SÜRE}&7 {PAKET} &7aldı."
   set {Baslik_Geri} to "&aBaşlığı Kaldır"
   set {Baslik_Geri_Yazi} to "||&7&oBaşlığını normal haline döndürür."
   set {Baslik_Kaldirildi} to "&7Başlığını eski haline döndürdün."
