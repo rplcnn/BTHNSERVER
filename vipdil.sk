@@ -71,3 +71,4 @@ on load:
   set {Baslik_Kullanildi} to "&a{BAŞLIK} &7başlığını kullanmaya başladın."
   set {Paketi_Yok} to "&7Bu oyuncunun bir vip paketi yok."
   set {Paket_Kaldirildi} to "&e{OYUNCU} &7oyuncusunun vip paketi kaldırıldı."
+  set {Tek_Bu_Ozellik} to "&7Sadece bu özellikleri kullanarak paket oluşturulamaz."
