@@ -62,3 +62,4 @@ on load:
   set {Baslik_Geri} to "&aBaşlığı Kaldır"
   set {Baslik_Geri_Yazi} to "||&7&oBaşlığını normal haline döndürür."
   set {Baslik_Kaldirildi} to "&7Başlığını eski haline döndürdün."
+  set {Baslik_Kullanildi} to "&a{BAŞLIK} &7başlığını kullanmaya başladın."
