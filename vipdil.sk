@@ -1,7 +1,7 @@
 on load:
   set {VIP_1} to "&8&l» &8VIP Menüsü"
   set {VIP_2} to "&aBaşlıklar"
-  set {VIP_Yazi_2} to "||&7&oSohbette yanında gözüken başlıkları incele.|||&7Toplam Alışverişin: &e{TUTAR}" 
+  set {VIP_Yazi_2} to "||&7&oSohbette yanında gözüken başlıkları incele.||||&7Toplam Alışverişin: &e{TUTAR}" 
   set {VIP_3} to "&aVIP Paketi Oluştur"
   set {VIP_Yazi_3} to "||&7&oKendine göre vip paketi oluşturmak||&7&oiçin tıkla. İstediğin özellikleri||&7&oseçip paket yapabilirsin."
   set {VIP_4} to "&aMevcut Paketinin Durumu"
