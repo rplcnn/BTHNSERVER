@@ -98,4 +98,5 @@ on load:
   set {Miktar_Az} to "&7Bir paket almak için toplam tutarın en az &e{JETON} &7olması gerek."
   set {Paket_Satin_Alindi} to "&aPaket başarılı birşekilde satın alındı."
   set {Ayni_Gorev_Ozellik} to "&7Aynı görevdeki özelliği tekrar seçemezsiniz."
-
+  set {Paket_Basligi} to "&7Paket tutarı &e{JETON} &7jetonu geçtiği için"
+  set {Paket_Basligi_2} to "{BAŞLIK} &7başlığını ücretsiz alacaksın."
