@@ -1,0 +1,5 @@
+17.07.16:
+ [+] Giriş/Çıkış mesajları hazırlandı.
+ [+] Yetkilere düzenleme işlemi başladı.
+ [+] VIP Paketi gerekli düzenlemeler ve eklemeler yapıldı.
+ [+] Yeni birçok başlık eklendi.
