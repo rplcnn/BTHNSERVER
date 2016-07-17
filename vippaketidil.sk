@@ -44,8 +44,8 @@ on load:
   set {Ozellik_Esya_6} to "mob spawner" parsed as material
   set {Ozellik_Esya_7} to "diamond helmet" parsed as material
   set {Ozellik_Esya_8} to "diamond sword" parsed as material
-  set {Ozellik_Esya_9} to "diamond pickaxe" parsed as material
-  set {Ozellik_Esya_10} to "diamond chestplate" parsed as material
+  set {Ozellik_Esya_9} to "diamond chestplate" parsed as material
+  set {Ozellik_Esya_10} to "diamond pickaxe" parsed as material
   set {Ozellik_Esya_11} to "anvil" parsed as material
   set {Ozellik_Esya_12} to "glass" parsed as material
   set {Ozellik_Esya_13} to "dirt" parsed as material
@@ -58,12 +58,12 @@ on load:
   set {Ozellik_Fiyat_2} to "30" parsed as integer
   set {Ozellik_Fiyat_3} to "250" parsed as integer
   set {Ozellik_Fiyat_4} to "10" parsed as integer
-  set {Ozellik_Fiyat_5} to "42" parsed as integer
+  set {Ozellik_Fiyat_5} to "40" parsed as integer
   set {Ozellik_Fiyat_6} to "10" parsed as integer
-  set {Ozellik_Fiyat_7} to "10" parsed as integer
-  set {Ozellik_Fiyat_8} to "40" parsed as integer
-  set {Ozellik_Fiyat_9} to "90" parsed as integer
-  set {Ozellik_Fiyat_10} to "150" parsed as integer
+  set {Ozellik_Fiyat_7} to "50" parsed as integer
+  set {Ozellik_Fiyat_8} to "180" parsed as integer
+  set {Ozellik_Fiyat_9} to "180" parsed as integer
+  set {Ozellik_Fiyat_10} to "180" parsed as integer
   set {Ozellik_Fiyat_11} to "40" parsed as integer
   set {Ozellik_Fiyat_12} to "5" parsed as integer
   set {Ozellik_Fiyat_13} to "80" parsed as integer
