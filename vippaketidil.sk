@@ -25,7 +25,7 @@ on load:
   set {Ozellik_Aciklama_5} to "Sunucu doluyken sunucuya girebilirsiniz."
   set {Ozellik_Aciklama_6} to "İpeksili kazmaları kullanarak spawnerları alabilirsiniz."
   set {Ozellik_Aciklama_7} to " ● Keskinlik IV Elmas Kılıç||&7 ● Koruma IV Elmas Kazma||&7 ● Keskinlik IV Elmas Kılıç||&7 ● Verimlilik IV, Servet I Elmas Kazma||&7 ● Verimlilik IV, Servet I Elmas Kürek||&7 ● Verimlilik IV, Servet I Elmas Balta||&7 ● Verimlilik IV, Servet I Elmas Çapa"
-  set {Ozellik_Aciklama_8} to " ● Keskinlik VII||&7Yaratık öldürdüğünde ömrü artar fakat||&7oyuncu öldürdüğünde ömrü azalır."
+  set {Ozellik_Aciklama_8} to " ● Keskinlik VII||&7Yaratık öldürdüğünde ömrü artar fakat||&7oyuncu öldürdüğünde ömrü azalır.|| &8“ &oDiğer oyuncularla eşitlik için... ”"
   set {Ozellik_Aciklama_9} to " ● Koruma VI Elmas Zırh Seti||&7Canavarlardan fazladan hasar alırsın.|| &8“ &oDiğer oyuncularla eşitlik için... ”"
   set {Ozellik_Aciklama_10} to " ● Kırılmazlık XI, Servet V Elmas Kazma||&7Asla kırılmaz."
   set {Ozellik_Aciklama_11} to "/tamiret komutu ile tüm eşyalarını tamir edebilirsin."
@@ -63,7 +63,7 @@ on load:
   set {Ozellik_Fiyat_7} to "50" parsed as integer
   set {Ozellik_Fiyat_8} to "180" parsed as integer
   set {Ozellik_Fiyat_9} to "180" parsed as integer
-  set {Ozellik_Fiyat_10} to "180" parsed as integer
+  set {Ozellik_Fiyat_10} to "200" parsed as integer
   set {Ozellik_Fiyat_11} to "40" parsed as integer
   set {Ozellik_Fiyat_12} to "5" parsed as integer
   set {Ozellik_Fiyat_13} to "80" parsed as integer
