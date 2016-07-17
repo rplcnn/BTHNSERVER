@@ -54,7 +54,7 @@ on load:
   set {Baslik_Fiyat_5} to "750" parsed as integer
   set {Baslik_Fiyat_6} to "1500" parsed as integer
   set {Baslik_Fiyat_7} to "2000" parsed as integer
-  set {Baslik_Yazi} to "&7Başlığı"
+  set {Baslik_Yazi} to "&r&7Başlığı"
   set {Baslik_Kullanilamaz} to "&cBu başlığı açmamışsın.||&7Alışverişin tutarı &e{JETON} &7jetonu||&7geçerse bu başlığı kullanabilirsin."
   set {Baslik_Kullan} to "&aBu başlığı kullanmak için tıkla."
   set {Paketin_Suresi_Doldu} to "&a{TARIH} &7tarihinde aldığın VIP-Paket'inin süresi doldu."
