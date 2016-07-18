@@ -10,4 +10,4 @@ on load:
   set {Easter_Egg_2} to "&a&oHikayenin canı cehenneme, altınlar senin olsun."
   set {Easter_Egg_3} to "&c&oSanırım bu pislik tavukta kuş gribi vardı."
   set {Easter_Egg_4} to "&b&oDünyadaki en şanslı kişisin galiba, altın yumurtlayan tavuk elmas yumurluyor..."
-  set {Sunucuya_Katildi} to "&a{OYUNCU}&7, sunucuya katıldı."
+  set {Sunucuya_Katildi} to "&8➥ &a{OYUNCU}&7, sunucuya katıldı."
