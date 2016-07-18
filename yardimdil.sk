@@ -1,8 +1,8 @@
 on load:
-  set {Yardim_Baslik} to "&8&l» &8Sana Nasıl Yardımcı Olabiliriz?"
+  set {Yardim_Baslik} to "&8&l» &8Yardım Merkezi"
   set {Yardim_1} to "&aAda Yardımı"
-  set {Yardim_2} to "&aVIP-Paketi Yardımı"
-  set {Yardim_3} to "&aKurallar"
+  set {Yardim_2} to "&aJeton Yardımı"
+  set {Yardim_3} to "&aKurallar ve Anlaşmalar"
   set {Yardim_4} to "&aYönetim Ekibi"
-  set {Yardim_5} to "&aDiğer Yardım"
+  set {Yardim_5} to "&aDiğer"
   set {Kitap_Verildi} to "&aKurallar ve Anlaşmalar &7kitabı envanterinize eklendi."
