@@ -13,3 +13,5 @@ on load:
   set {Easter_Egg_5} to "&e&oBenim adım ÇE-O-ME-A-RE."
   set {Sunucuya_Katildi} to "&a{OYUNCU}&7, sunucuya katıldı."
   set {Sunucudan_Ayrildi} to "&c{OYUNCU}&7, sunucudan ayrıldı."
+  set {Skybox_Kutusu} to "&dSkybox Kutusu"
+  set {Skybox_Kutusu_Yazi} to "||&7&oAcaba şansına ne çıkacak...||||&7Açmak için &5Skybox Anahtarı &7gerekiyor."
