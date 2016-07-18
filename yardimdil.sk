@@ -5,3 +5,4 @@ on load:
   set {Yardim_3} to "&aKurallar"
   set {Yardim_4} to "&aYönetim Ekibi"
   set {Yardim_5} to "&aDiğer Yardım"
+  set {Kitap_Verildi} to "&aKurallar ve Anlaşmalar &7kitabı envanterinize eklendi."
