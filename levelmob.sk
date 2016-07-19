@@ -20,4 +20,4 @@ on load:
   set {Mob_Turu_1} to "&a☢"
   set {Mob_Turu_2} to "&e☀"
   set {Mob_Turu_3} to "&7⍔"
-  set {Mob_Turu_4} to "&b★"
+  set {Mob_Turu_4} to "&b⬬"
