@@ -1,5 +1,4 @@
 on load:
-  set {Mob_Arena_Dunyasi} to "ASkyblock"
   set {Mob_creeper} to "Creeper"
   set {Mob_skeleton} to "Iskelet"
   set {Mob_spider} to "Orümcek"
