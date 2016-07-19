@@ -9,7 +9,7 @@ on load:
   set {Arkadaslik_Yazi_3} to "||&7&oArkadaşlık davetlerini açmak/kapatmak için tıkla.||&7Durum: {DURUM}"
   set {Arkadaslik_Menu_2} to "&8&l» &8Arkadaşlarım"
   set {Hic_Arkadasin_Yok_2} to "&7Hiç arkadaşın yok. &e/arkadaş ekle <oyuncu> &7komutuyla yeni birilerini ekleyebilirsin."
-  set {Arkadaslik_Yazi_4} to "||&eDurumu: {DURUM}||&eTanışma tarihi: &7{TARIH}||&eSon girişi: &7{SONGİRİŞ}"
+  set {Arkadaslik_Yazi_4} to "||&eDurumu: {DURUM}||&eTanışma tarihi: &7{TARIH}||&eBulunduğu konum: &7{DÜNYA}||&eSon girişi: &7{SONGİRİŞ}"
   set {Durum_Acik} to "&a&lAÇIK"
   set {Durum_Kapali} to "&c&lKAPALI"
   set {Arkadas_Bekle} to "&7Yeni bir arkadaşlık daveti göndermek için &a30 saniye &7bekle."
@@ -29,4 +29,8 @@ on load:
   set {Arkadas_Cikarildi} to "&c{OYUNCU} &7arkadaşlarınızdan çıkarıldı."
   set {Arkadaslik_Bitti} to "&c{OYUNCU} &7ile sizin aranızdaki arkadaşlık sonlandı"
   set {Arkadas_Ekli_Degil} to "&7Zaten arkadaş değilsiniz."
-  
+  set {Dunya_world} to "&aDoğuş Dünyası"
+  set {Dunya_ASkyblock} to "&aAda Dünyası"
+  set {Dunya_ASkyblock_nether} to "&aCehennem Adaları"
+  set {Dunya_pvparena} to "&aPvP Arena"
+  set {Dunya_mobarena} to "&aMob Arena"
