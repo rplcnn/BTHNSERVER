@@ -16,6 +16,6 @@ on load:
   set {Jeton_Gonderildi} to "&a{OYUNCU} &7oyuncusuna &e{JETON} &7gönderdin."
   set {Kendinle_Islem} to "&7Kendinle işlem yapamazsın."
   set {Jeton_Mesaj_Admin} to "&cYÖNETİCİ &8Birisine direk jeton göndermek için &b/jeton admin <isim> <miktar> &8komutunu kullan." 
-  set {Jeton_Satin_Al} to "&7Jeton satın almak için &bwww.oyunbaz.nw &7adresini ziyaret edebilirsin."
+  set {Jeton_Satin_Al} to "&7Jeton satın almak için &bwww.oyunbaz.network &7adresini ziyaret edebilirsin."
   set {Jeton_Ayarlandi} to "&a{OYUNCU} &7oyuncusunun jetonu &e{JETON} &7olarak ayarlandı."
   set {Iznin_Yok} to "&7Bunun için iznin yok."
