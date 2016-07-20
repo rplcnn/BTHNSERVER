@@ -1,0 +1,13 @@
+on load:
+  set {Kilit_Baslik} to "&4● KİLİTLİ ●"
+  set {Sandik_Senin_Degil} to "&7Bu sandık sana ait değil."
+  set {Koruma_1} to "&7Bir sandığı korumaya almak için önüne bir tabela yapıştır."
+  set {Koruma_2} to "&7Sandık korumasına kişi eklemek veya çıkarmak için &a/koruma <isim> &7komutunu kullan."
+  set {Sandik_Yer_Yok} to "&7Bu sandıkta yer yok. Kişi kaldırmak için &c/koruma <isim> &7komutunu kullan."
+  set {Sandiktan_Kaldirildi} to "&c{OYUNCU}&7, sandık korumasından kaldırıldı. Artık sandığa erişemeyecek."
+  set {Sandiga_Eklendi} to "&a{OYUNCU}&7, sandık korumasına eklendi."
+  set {Sandik_Senin} to "&7Bu sandık zaten senin."
+  set {Sandiga_Bak} to "&7Bu komutu kullanırken bir kilit tabelasına bak."
+  set {Isim_Uzun} to "&7Girdiğiniz isim çok uzun."
+  set {Kilit_Hata} to "&7Bu sandık korumalı olduğu için tabela yerleştirilemez."
+  set {Sandik_Korumaya_Alindi} to "&7Bu sandığı koruma altına aldın."
