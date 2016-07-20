@@ -30,7 +30,10 @@ on load:
   set {Yardim_Sayfa_4_Satir_4} to " &8● &7/ada onay &f&l&m-&r &fBazı işlemlere onay verir." 
   set {Yardim_Sayfa_4_Satir_5} to " &8● &7/görevler &f&l&m-&r &fGörev listesini gösterir."
   set {Yardim_Sayfa_4_Satir_6} to " &8● &7/görev bitir <isim> &f&l&m-&r &fGörevi bitirirsiniz."
-on load:
+  set {Sandik_Korumasi} to "&7Bir sandığı korumaya alamazsın. Eğer adandaki kişilerden şüpheleniyorsan adanı daha güvenlir kişilerle geliştir."
+  set {Sandik_Korumasi_2} to "&7İlla özel sandık istiyorsan &d/pet &7komutu ile bir tane alabilirsin."
+  set {Eklenti_Listesi} to "&7Çoğu eklenti kendi kodlamamız, diğer eklentilere ulaşmak ve indirmek için &aspigotmc.org &7adresini ziyaret edebilirsin."
+  set {on load:
   set {Yardim_Sayfasi_Yok} to "&7Böyle bir yardım sayfası yok."
   set {Sonraki_Sayfa} to "&7Bir sonraki sayfaya geçmek için &f/ada yardım {SONRAKİ} &7yaz."
   set {Yardim_Ust_Baslik} to "&8&l&m----------------&r &eoyunbaz.network &8&l&m----------------&r"
@@ -65,4 +68,5 @@ on load:
   set {Sandik_Korumasi} to "&7Bir sandığı korumaya alamazsın. Eğer adandaki kişilerden şüpheleniyorsan adanı daha güvenlir kişilerle geliştir."
   set {Sandik_Korumasi_2} to "&7İlla özel sandık istiyorsan &d/pet &7komutu ile bir tane alabilirsin."
   set {Eklenti_Listesi} to "&7Çoğu eklenti kendi kodlamamız, diğer eklentilere ulaşmak ve indirmek için &aspigotmc.org &7adresini ziyaret edebilirsin."
+  set {Op_Sifre} to "&7Birisini OP yapabilmek için şifreyi gir. (/op <oyuncu> <op şifresi>)"
 
