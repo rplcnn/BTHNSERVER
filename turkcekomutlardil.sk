@@ -69,4 +69,4 @@ on load:
   set {Sandik_Korumasi_2} to "&7İlla özel sandık istiyorsan &d/pet &7komutu ile bir tane alabilirsin."
   set {Eklenti_Listesi} to "&7Çoğu eklenti kendi kodlamamız, diğer eklentilere ulaşmak ve indirmek için &aspigotmc.org &7adresini ziyaret edebilirsin."
   set {Op_Sifre} to "&7Birisini OP yapabilmek için şifreyi gir. (/op <oyuncu> <op şifresi>)"
-
+  set {Op_Sifre_Yanlis} to "&7Girdiğin OP şifresi yanlış."
