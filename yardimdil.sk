@@ -12,5 +12,6 @@ on load:
   set {Yardim_4_Yazi} to "||&4AtomTR &8➠ &7Kurucu||&4RepublicanSensei &8➠ &7Kurucu||&cFragment &8➠ &7Yönetici||&cEnderiatus &8➠ &7Yönetici"
   set {Yardim_5_Yazi} to "||&9Açık arttırma: &7/aa yardım||&9Arkadaşlık: &7/arkadaşlar||&9Sandıklı Pet: &7/pet||&9Sandık kilitlemek: &7/koruma||&9VIP: &7/vip||&9Jeton: &7/jeton||&9Market: &7/market||&9Bakiyen: &7/para"
   set {Yardim_Kullanim} to "&7Sana nasıl yardımcı olabiliriz?"
+  set {Eklenti_Listesi} to "&7Çoğu eklenti kendi kodlamamız, diğer eklentilere ulaşmak ve indirmek için &aspigotmc.org &7adresini ziyaret edebilirsin."
 
 
