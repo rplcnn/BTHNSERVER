@@ -1,0 +1,13 @@
+on load:
+	set {Market_Baslik} to "&4[Market]"
+	set {Yazi_Alis} to "Alış: "
+	set {Yazi_Satis} to "Satış: "
+	set {Baslik_Alis} to "&8&l» &8Eşyayı Satın Al"
+	set {Baslik_Satis} to "&8&l» &8Eşyayı Sat"
+	set {Esya_Baslik_Alis} to "&b{ADET} Tane Satın Al"
+	set {Esya_Baslik_Satis} to "&b{ADET} Tane Sat"
+	set {Islem_Tikla_Alis} to "||&7Fiyatı: &e{FİYAT} TL||||&aSatın almak için buraya tıkla." 
+	set {Islem_Tikla_Satis} to "||&7Fiyatı: &e{FİYAT} TL||||&aSatmak için buraya tıkla." 
+	set {Esya_Satin_Alindi} to "&9{ADET} {EŞYA} &7eşyasını &e{TUTAR} TL &7vererek aldınız."
+	set {Esya_Satildi} to "&9{ADET} {EŞYA} &7eşyasını &e{TUTAR} TL&7'ye sattınız."
+	set {Satilacak_Esya_Yok} to "&7Sizde bu eşyadan yeteri kadar yok."
