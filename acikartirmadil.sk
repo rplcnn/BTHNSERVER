@@ -1,0 +1,35 @@
+on load:
+	clear {Acik_Artirma::Durum}
+	clear {Acik_Artirma::Esya}
+	clear {Acik_Artirma::Adet} 
+	clear {Acik_Artirma::MinTeklif}
+	clear {Acik_Artirma::TeklifVeren} 
+	set {Acik_Artirma::TeklifFiyati} to 0
+	clear {Acik_Artirma::EsyaTuru}
+	set {Acik_Artirma_Esya_Alindi} to "&7Açık artırma için elindeki eşya alındı."
+	set {Acik_Artirma_Var} to "&7Şuanda bir açık artırma var."
+	set {Min_Teklif_Fiyati} to "&7Bir minumum teklif fiyatı gir. (/aa başlat <adet> <minimum teklif>)"
+	set {Adet_Gir} to "&7Eşya sayısını giriniz. (/aa başlat <adet> <minimum teklif>)"
+	set {Yeteri_Kadar_Esya_Yok} to "&7Elinizdeki eşyadan yazdığınız adet kadar yok."
+	set {Acik_Artirma_Basladi} to "&a{OYUNCU}&7, &9{EŞYA} &7için en az teklif &e{MİNİMUM} TL&7'den açık artırma başlattı."
+	set {Acik_Artirma_Basladi_2} to "&7Teklif vermek için &d/teklif <fiyat>&7, detaylar içinse &d/aa bilgi &7yazın."
+	set {Eline_Bir_Sey_Al} to "&7Eline açık artırma yapacağın eşyayı al."
+	set {Duzgun_Deger} to "&7Lütfen sıfırdan büyük ve doğru değer giriniz."
+	set {Acik_Artirma_Basladi_3} to "&7Açık artırma &e60 saniye &7sonra bitecek."
+	set {AA_ActionBar} to "&a{OYUNCU}&7, &b{EŞYA} &7için &e{TEKLİF} TL &7teklifini verdi."
+	set {Acik_Artirma_Zaman} to "&7Açık artırmanın bitmesine &e{ZAMAN} &7saniye kaldı."
+	set {Acik_Artirma_Teklif} to "&a{EŞYA} &7ihalesi için &e{FİYAT} TL &7teklif verdin."
+	set {Acik_Artirma_Kucuk} to "&7Senin teklifin &a{OYUNCU} &7oyuncusunun &e{TEKLİF} TL &7teklifinden küçük."
+	set {Bu_Teklif_Fiyat} to "&7Bu açık artırma için verilebilecek en düşük teklif &e{TEKLİF} TL&7'dir."
+	set {Kendi_AcikArtirma} to "&7Kendi açık artırmana teklif veremezsin."
+	set {AcikArtirma_Yok} to "&7Şuanda açık artırma yok."
+	set {AcikArtirma_Bitti} to "&a{EŞYA} &7ihalesi bitti, en yüksek teklifi veren &b{OYUNCU} &e({TEKLİF} TL) &7eşyayı aldı."
+	set {AcikArtirma_Kazanildi} to "&7Açık artırmayı kazandın. &a{EŞYA} &7envanterine eklendi."
+	set {AcikArtirma_Bitti_2} to "&a{EŞYA} &7açık artırması bitti, kimse teklif vermedi."
+	set {Esya_GeriVerildi} to "&7Açık artırma eşyası envanterinize geri verildi."
+	set {Acik_Artirma_Iptal} to "&a{EŞYA} &7ihalesi &c{TARAFINDAN} &7tarafından iptal edildi."
+	set {Yazi_Sistem} to "Sistem"
+	set {Yazi_OP} to "Yönetici"
+	set {Ihale_Iptal_Ettin} to "&7Mevcut ihaleyi iptal ettin."
+	set {Ihale_Senin_Degil} to "&7Mevcut ihaleyi sen yapmıyorsun."
+	set {Ihale_Menu} to "&8&l» &8İhale Eşyası"
