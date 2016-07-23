@@ -1,0 +1,6 @@
+on load:
+  set {Titan_Anahtari} to "&9Titan Anahtarı"
+  set {Sandiga_Tikla} to "&7Bu kutuyu açmak için anahtarı titan kutusuna sağ tıkla."
+  set {Titan_Baslik} to "&8&l» &8Titan Kutusu"
+  set {Hediye_Yerin_Yok} to "&7Envanterinde yer yok."
+  set {Titan_Envantere_Eklendi} to "&9Titan &7anahtarı envanterine eklendi."
