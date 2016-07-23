@@ -1,0 +1,7 @@
+on load:
+  set {Portal_Anahtari} to "&cPortal Anahtarı"
+  set {Portal_Sandiga_Tikla} to "&7Bu kutuyu açmak için anahtarı portal kutusuna sağ tıkla."
+  set {Portal_Baslik} to "&8&l» &8Portal Kutusu"
+  set {Portal_Envantere_Eklendi} to "&cPortal &7anahtarı envanterine eklendi."
+  set {Portal_Aciyor} to "&c{OYUNCU}&7, bir &cportal kutusu &7açıyor..."
+  set {Portal_Acti} to "&c{OYUNCU}&7, bir &cportal kutusu &7açtı ve &a{EŞYA} &7kazandı."
