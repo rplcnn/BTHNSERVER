@@ -1,0 +1,8 @@
+on load:
+  set {SavasKutusu_Kutusu} to "&eSavaş Kutusu"
+  set {SavasKutusu_Anahtari} to "&6Savaş Anahtarı"
+  set {SavasKutusu_Kutusu_Yazi} to "||&7&oAcaba şansına ne çıkacak...||||&7Açmak için &6Savaş Anahtarı &7gerekiyor."
+  set {SavasKutusu_Kutusu_Kazandin} to "&7Tebrikler, öldürdüğün oyucudan 1 &eSavaş Kutusu &7düşürmeyi başardın."
+  set {SavasKutusu_Baslik} to "&8&l» &8Savaş Kutusu"
+  set {Savas_Kutun_Yok} to "&7Hiç &esavaş &7kutusuna sahip değilsin, pvp arenada oyuncu öldürerek düşürebilirsin."
+  set {SavasKutusu_Envantere_Eklendi} to "&eSavaş anahtarı &7ve kutusu envanterine eklendi."
