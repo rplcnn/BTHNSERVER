@@ -61,9 +61,9 @@ on load:
   set {Ozellik_Fiyat_5} to "40" parsed as integer
   set {Ozellik_Fiyat_6} to "10" parsed as integer
   set {Ozellik_Fiyat_7} to "50" parsed as integer
-  set {Ozellik_Fiyat_8} to "180" parsed as integer
-  set {Ozellik_Fiyat_9} to "180" parsed as integer
-  set {Ozellik_Fiyat_10} to "200" parsed as integer
+  set {Ozellik_Fiyat_8} to "200" parsed as integer
+  set {Ozellik_Fiyat_9} to "200" parsed as integer
+  set {Ozellik_Fiyat_10} to "250" parsed as integer
   set {Ozellik_Fiyat_11} to "40" parsed as integer
   set {Ozellik_Fiyat_12} to "5" parsed as integer
   set {Ozellik_Fiyat_13} to "80" parsed as integer
