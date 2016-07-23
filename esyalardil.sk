@@ -201,7 +201,7 @@ on load:
 	set {Esya_iron pickaxe} to "demir kazma"
 	set {Esya_iron axe} to "demir balta"
 	set {Esya_flint and steel} to "çakmaktaşı ve çelik"
-	set {Esya_apple} to "apple"
+	set {Esya_apple} to "elma"
 	set {Esya_bow} to "yay"
 	set {Esya_arrow} to "ok"
 	set {Esya_coal item} to "kömür"
