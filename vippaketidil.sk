@@ -100,3 +100,4 @@ on load:
   set {Ayni_Gorev_Ozellik} to "&7Aynı görevdeki özelliği tekrar seçemezsiniz."
   set {Paket_Basligi} to "&7Paket tutarı &e{JETON} &7jetonu geçtiği için"
   set {Paket_Basligi_2} to "{BAŞLIK} &7başlığını ücretsiz alacaksın."
+  set {Aitlik_Yazi} to "&7Bu eşya &a{OYUNCU} &7oyuncusuna aittir.||&7Başkası kullanırsa etkileri çalışmayacaktır."
