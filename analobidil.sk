@@ -1,0 +1,12 @@
+on load:
+  set {Genel_Esya_1} to "&a&nOyuncuları Gizle"
+  set {Genel_Esya_2} to "&a&nKozmetikler"
+  set {Genel_Esya_3} to "&a&nJetonların: &e{JETON} ⛃"
+  set {Genel_Esya_4} to "&a&nAyarlar"
+  set {Genel_Esya_5} to "&a&nSunucu Seçimi"
+  set {Genel_Esya_6} to "&a&nLobi Seçimi"
+  set {Genel_Esya_Yazi_1} to "||&7&oKullandığınızda tüm oyuncuları gizler." 
+  set {Genel_Esya_Yazi_2} to "||&7&oKullanabilmeniz için kozmetik menüsünü açar." 
+  set {Genel_Esya_Yazi_4} to "||&7&oOyun-içi ayarlarınızı yapabileceğiniz menüyü açar."
+  set {Genel_Esya_Yazi_5} to "||&7&oDiğer sunuculara bağlanmak için buna tıkla."
+  set {Genel_Esya_Yazi_6} to "||&7&oDiğer lobilere bağlanmak için buna tıkla."
