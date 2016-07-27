@@ -40,4 +40,7 @@ on load:
   set {Buyu_unbreaking} to "kırılmazlık"
   set {Buyu_luck of the sea} to "deniz şansı"
   set {Nether_Korumasi} to "&7Cehennemdeki canavar yaratıcılarını (spawnerları) kıramazsın."
-
+  set {Eklenti_Listesi} to "&7Çoğu eklenti kendi kodlamamız, diğer eklentilere ulaşmak ve indirmek için &aspigotmc.org &7adresini ziyaret edebilirsin."
+  set {Ekmek_Name} to "&6Sabah Kahvaltısı"
+  set {Ekmek_Lore} to "&7Her sabah herkese verilir.||&7&ooh mis gibi sıcak ekmek..."
+  set {Ekmek_Mesaj} to "&7Sabah oldu, herkese kahvaltılık eşya verildi."
