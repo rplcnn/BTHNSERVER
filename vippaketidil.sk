@@ -103,3 +103,4 @@ on load:
   set {Super_kilic} to "||&7Yaratık öldürdüğünde ömrü artar fakat||&7oyuncu öldürdüğünde ömrü azalır.|| &8“ &oDiğer oyuncularla eşitlik için... ”"
   set {Super_zirh} to "||&7Canavarlardan fazladan hasar alırsın.|| &8“ &oDiğer oyuncularla eşitlik için... ”"
   set {Super_kazma} to "||&7Asla kırılmaz."
+  set {Jeton_Yeterli_Degil} to "&7Bir paket oluşturabilmek için jeton miktarının &c100'ü&7 geçmesi gerek."
