@@ -13,6 +13,6 @@ on load:
   set {Yardim_5_Yazi} to "||&9Açık arttırma: &7/aa||&9Arkadaşlık: &7/arkadaşlar||&9Sandıklı Pet: &7/pet||&9Sandık kilitlemek: &7/koruma||&9VIP: &7/vip||&9Jeton: &7/jeton||&9Market: &7/market||&9Bakiyen: &7/para||&9Sohbet temizle: &7/sohbettemizle"
   set {Yardim_Kullanim} to "&7Sana nasıl yardımcı olabiliriz?"
   set {Sifreyi_Gir} to "&7Bu hesap herkese açık bir hesaptır, şifreni girmek için &c/şifre <şifre> &7yaz."
-  set {Sifre_Dogru} to "&aŞifre doğru, hoşgeldin Berk!"
+  set {Sifre_Dogru} to "&aŞifre doğru, hoşgeldin!"
   set {Sifre_Yanlis} to "&cŞifre yanlış, tekrar yaz."
   set {Sifre_Gir} to "&7Şifreyi gir. /şifre <şifre>"
